@@ -2550,6 +2550,8 @@
     <s>:</s>
     <s>break</s>
     <s>Case of</s>
+    <s>Class constructor</s>
+    <s>Class extends</s>
     <s>continue</s>
     <s>Else</s>
     <s>End case</s>
@@ -2560,11 +2562,13 @@
     <s>End while</s>
     <s>For</s>
     <s>For each</s>
+    <s>Function</s>
     <s>If</s>
     <s>Repeat</s>
     <s>return</s>
     <s>Until</s>
     <s>Use</s>
+    <s>var</s>
     <s>While</s>
   </k>
   <k id="Commands">
