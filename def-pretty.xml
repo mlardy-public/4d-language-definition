@@ -2563,6 +2563,8 @@
     <s>For</s>
     <s>For each</s>
     <s>Function</s>
+    <s>Function get</s>
+    <s>Function set</s>
     <s>If</s>
     <s>Repeat</s>
     <s>return</s>
@@ -3859,7 +3861,7 @@
     <s>ZIP Create archive</s>
     <s>ZIP Read archive</s>
   </k>
-  <k id="Types">
+  <k id="CTypes">
     <s>ARRAY BLOB</s>
     <s>ARRAY BOOLEAN</s>
     <s>ARRAY DATE</s>
@@ -3883,6 +3885,20 @@
     <s>C_TEXT</s>
     <s>C_TIME</s>
     <s>C_VARIANT</s>
+  </k>
+  <k id="VarTypes">
+    <s>Blob</s>
+    <s>Boolean</s>
+    <s>Collection</s>
+    <s>Date</s>
+    <s>Integer</s>
+    <s>Object</s>
+    <s>Picture</s>
+    <s>Pointer</s>
+    <s>Real</s>
+    <s>Text</s>
+    <s>Time</s>
+    <s>Variant</s>
   </k>
   <k id="SystemVariables">
     <s>Document</s>
