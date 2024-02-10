@@ -1,0 +1,3898 @@
+<def>
+  <k id="Constants">
+    <s>4D Client database folder</s>
+    <s>4D Client SOAP license</s>
+    <s>4D Client Web license</s>
+    <s>4D Desktop</s>
+    <s>4D for OCI license</s>
+    <s>4D Local mode</s>
+    <s>4D ODBC Pro license</s>
+    <s>4D Remote mode</s>
+    <s>4D Remote mode timeout</s>
+    <s>4D REST digest</s>
+    <s>4D REST Test license</s>
+    <s>4D Server</s>
+    <s>4D Server log recording</s>
+    <s>4D Server timeout</s>
+    <s>4D SOAP license</s>
+    <s>4D SOAP local license</s>
+    <s>4D SOAP one connection license</s>
+    <s>4D SQL Server license</s>
+    <s>4D SQL Server local license</s>
+    <s>4D SQL Server one Conn license</s>
+    <s>4D user account</s>
+    <s>4D user alias</s>
+    <s>4D user alias or account</s>
+    <s>4D View license</s>
+    <s>4D Volume desktop</s>
+    <s>4D Web license</s>
+    <s>4D Web local license</s>
+    <s>4D Web one connection license</s>
+    <s>4D Write license</s>
+    <s>64 bit version</s>
+    <s>_o_4D Draw license</s>
+    <s>_o_4D First</s>
+    <s>_o_4D for ADO license</s>
+    <s>_o_4D for MySQL license</s>
+    <s>_o_4D for PostgreSQL license</s>
+    <s>_o_4D for Sybase license</s>
+    <s>_o_4D Interpreted desktop</s>
+    <s>_o_4D Local mode scheduler</s>
+    <s>_o_4D Mobile license</s>
+    <s>_o_4D Remote mode scheduler</s>
+    <s>_o_4D Server scheduler</s>
+    <s>_o_Accept action</s>
+    <s>_o_Add subrecord action</s>
+    <s>_o_Ala Macintosh</s>
+    <s>_o_Ala Windows</s>
+    <s>_o_American dictionary</s>
+    <s>_o_Automatic platform</s>
+    <s>_o_Cache writing mode</s>
+    <s>_o_Cancel action</s>
+    <s>_o_Clear action</s>
+    <s>_o_Client IP address to listen</s>
+    <s>_o_Client max Web requests size</s>
+    <s>_o_Client maximum Web process</s>
+    <s>_o_Client minimum Web process</s>
+    <s>_o_Compositing mode</s>
+    <s>_o_Compositing mode form window</s>
+    <s>_o_Condensed</s>
+    <s>_o_Copy action</s>
+    <s>_o_Cut action</s>
+    <s>_o_Database cache size</s>
+    <s>_o_Database settings action</s>
+    <s>_o_Delete record action</s>
+    <s>_o_Delete subrecord action</s>
+    <s>_o_Direct2D hardware SVG and editors</s>
+    <s>_o_Direct2D mixed</s>
+    <s>_o_Direct2D software SVG and editors</s>
+    <s>_o_Edit subrecord action</s>
+    <s>_o_English dictionary</s>
+    <s>_o_Extended</s>
+    <s>_o_Extras folder</s>
+    <s>_o_First page action</s>
+    <s>_o_First record action</s>
+    <s>_o_Form Has toolbar button Mac</s>
+    <s>_o_French dictionary</s>
+    <s>_o_Full Version</s>
+    <s>_o_German dictionary</s>
+    <s>_o_Has toolbar button Mac</s>
+    <s>_o_Hidden modal dialog</s>
+    <s>_o_Hide printing progress option</s>
+    <s>_o_In contents</s>
+    <s>_o_In drag</s>
+    <s>_o_In go away</s>
+    <s>_o_In grow</s>
+    <s>_o_In menu bar</s>
+    <s>_o_In system window</s>
+    <s>_o_In zoom box</s>
+    <s>_o_Index compacting</s>
+    <s>_o_INTEL 386</s>
+    <s>_o_INTEL 486</s>
+    <s>_o_Invert objects</s>
+    <s>_o_IP address to listen</s>
+    <s>_o_Is float</s>
+    <s>_o_Last page action</s>
+    <s>_o_Last record action</s>
+    <s>_o_lk display hor scrollbar</s>
+    <s>_o_lk display ver scrollbar</s>
+    <s>_o_lk footer height</s>
+    <s>_o_lk header height</s>
+    <s>_o_lk hor scrollbar position</s>
+    <s>_o_lk ver scrollbar position</s>
+    <s>_o_Mac control panels</s>
+    <s>_o_Mac extensions</s>
+    <s>_o_Mac OS 7</s>
+    <s>_o_Mac OS 9</s>
+    <s>_o_Mac shutdown items_all</s>
+    <s>_o_Mac shutdown items_user</s>
+    <s>_o_Mac theme</s>
+    <s>_o_Macintosh 68K</s>
+    <s>_o_Macintosh node</s>
+    <s>_o_Maximum temporary memory size</s>
+    <s>_o_Maximum Web process</s>
+    <s>_o_Minimum Web process</s>
+    <s>_o_MSC Action</s>
+    <s>_o_Next page action</s>
+    <s>_o_Next record action</s>
+    <s>_o_No action</s>
+    <s>_o_NonInverted objects</s>
+    <s>_o_Norwegian dictionary</s>
+    <s>_o_Object Accept action</s>
+    <s>_o_Object Add subrecord action</s>
+    <s>_o_Object Automatic splitter action</s>
+    <s>_o_Object Cancel action</s>
+    <s>_o_Object Clear action</s>
+    <s>_o_Object Copy action</s>
+    <s>_o_Object Cut action</s>
+    <s>_o_Object Database Settings action</s>
+    <s>_o_Object Delete record action</s>
+    <s>_o_Object Delete subrecord action</s>
+    <s>_o_Object Edit subrecord action</s>
+    <s>_o_Object First page action</s>
+    <s>_o_Object First record action</s>
+    <s>_o_Object Goto page action</s>
+    <s>_o_Object Last page action</s>
+    <s>_o_Object Last record action</s>
+    <s>_o_Object MSC action</s>
+    <s>_o_Object Next page action</s>
+    <s>_o_Object Next record action</s>
+    <s>_o_Object No standard action</s>
+    <s>_o_Object Open back URL action</s>
+    <s>_o_Object Open next URL action</s>
+    <s>_o_Object Paste action</s>
+    <s>_o_Object Previous page action</s>
+    <s>_o_Object Previous record action</s>
+    <s>_o_Object Quit action</s>
+    <s>_o_Object Redo action</s>
+    <s>_o_Object Refresh current URL action</s>
+    <s>_o_Object Return to Design mode action</s>
+    <s>_o_Object Select all action</s>
+    <s>_o_Object Show Clipboard action</s>
+    <s>_o_Object Stop loading URL action</s>
+    <s>_o_Object Test Application action</s>
+    <s>_o_Object Undo action</s>
+    <s>_o_On Loading Record Event</s>
+    <s>_o_On Mac Toolbar Button</s>
+    <s>_o_Outline</s>
+    <s>_o_Paste action</s>
+    <s>_o_PDFCreator Printer name</s>
+    <s>_o_PowerPC 601</s>
+    <s>_o_PowerPC 603</s>
+    <s>_o_PowerPC 604</s>
+    <s>_o_PowerPC G3</s>
+    <s>_o_Previous page action</s>
+    <s>_o_Previous record action</s>
+    <s>_O_qr 4D Chart area</s>
+    <s>_o_qr 4D View area</s>
+    <s>_O_qr font</s>
+    <s>_o_qr view color toolbar</s>
+    <s>_o_qr view column toolbar</s>
+    <s>_o_qr view menubar</s>
+    <s>_o_qr view operators toolbar</s>
+    <s>_o_qr view standard toolbar</s>
+    <s>_o_qr view style toolbar</s>
+    <s>_o_QT animation compressor</s>
+    <s>_o_QT compact video compressor</s>
+    <s>_o_QT graphics compressor</s>
+    <s>_o_QT photo compressor</s>
+    <s>_o_QT raw compressor</s>
+    <s>_o_QT video compressor</s>
+    <s>_o_QuickTime support</s>
+    <s>_o_Quit action</s>
+    <s>_o_Real display precision</s>
+    <s>_o_Redo action</s>
+    <s>_o_Return to design mode</s>
+    <s>_o_Select all action</s>
+    <s>_o_Seq access optimization</s>
+    <s>_o_Seq distinct values ratio</s>
+    <s>_o_Seq order ratio</s>
+    <s>_o_Seq query select ratio</s>
+    <s>_o_Shadow</s>
+    <s>_o_Show clipboard action</s>
+    <s>_o_sk diacritical</s>
+    <s>_o_Spanish dictionary</s>
+    <s>_o_Temporary memory size</s>
+    <s>_o_Test application action</s>
+    <s>_o_TLSv1_0</s>
+    <s>_o_TLSv1_1</s>
+    <s>_o_Undo action</s>
+    <s>_o_Use PICT resource</s>
+    <s>_o_WA enable Java applets</s>
+    <s>_o_WA enable JavaScript</s>
+    <s>_o_WA enable plugins</s>
+    <s>_o_Web conversion mode</s>
+    <s>_o_Web Log recording</s>
+    <s>_o_Web process with context</s>
+    <s>_o_WEDD signature</s>
+    <s>_o_Windows 3_11, NT 3_51</s>
+    <s>_o_Windows 9x</s>
+    <s>_o_Windows node</s>
+    <s>_o_wk list font family</s>
+    <s>_o_wk page break inside</s>
+    <s>Aborted</s>
+    <s>Absolute path</s>
+    <s>Access privileges</s>
+    <s>ACK ASCII code</s>
+    <s>Activate event</s>
+    <s>Activate window bit</s>
+    <s>Activate window mask</s>
+    <s>Active 4D Folder</s>
+    <s>Activity all</s>
+    <s>Activity language</s>
+    <s>Activity network</s>
+    <s>Activity operations</s>
+    <s>Additional text</s>
+    <s>ak accept</s>
+    <s>ak add subrecord</s>
+    <s>ak automatic splitter</s>
+    <s>ak background color</s>
+    <s>ak background color dialog</s>
+    <s>ak cancel</s>
+    <s>ak clear</s>
+    <s>ak compute expressions</s>
+    <s>ak copy</s>
+    <s>ak current form</s>
+    <s>ak cut</s>
+    <s>ak database settings</s>
+    <s>ak delete record</s>
+    <s>ak delete subrecord</s>
+    <s>ak display subrecord</s>
+    <s>ak edit subrecord</s>
+    <s>ak first page</s>
+    <s>ak first record</s>
+    <s>ak font bold</s>
+    <s>ak font color</s>
+    <s>ak font color dialog</s>
+    <s>ak font italic</s>
+    <s>ak font linethrough</s>
+    <s>ak font show dialog</s>
+    <s>ak font size</s>
+    <s>ak font style</s>
+    <s>ak font underline</s>
+    <s>ak freeze expressions</s>
+    <s>ak goto page</s>
+    <s>ak last page</s>
+    <s>ak last record</s>
+    <s>ak main form</s>
+    <s>ak msc</s>
+    <s>ak next page</s>
+    <s>ak next record</s>
+    <s>ak none</s>
+    <s>ak open back url</s>
+    <s>ak open forward url</s>
+    <s>ak paste</s>
+    <s>ak previous page</s>
+    <s>ak previous record</s>
+    <s>ak quit</s>
+    <s>ak redo</s>
+    <s>ak refresh current url</s>
+    <s>ak return to design mode</s>
+    <s>ak select all</s>
+    <s>ak show clipboard</s>
+    <s>ak show reference</s>
+    <s>ak spell</s>
+    <s>ak standard action title</s>
+    <s>ak stop loading url</s>
+    <s>ak undo</s>
+    <s>Align bottom</s>
+    <s>Align center</s>
+    <s>Align default</s>
+    <s>Align left</s>
+    <s>Align right</s>
+    <s>Align top</s>
+    <s>Allow alias files</s>
+    <s>Allow deletion</s>
+    <s>Alternate dialog box</s>
+    <s>Apple event manager</s>
+    <s>Applications or program files</s>
+    <s>April</s>
+    <s>Array 2D</s>
+    <s>Associated standard action</s>
+    <s>Associated standard action name</s>
+    <s>Asynchronous progress bar</s>
+    <s>At sign</s>
+    <s>At the bottom</s>
+    <s>At the top</s>
+    <s>Attribute background color</s>
+    <s>Attribute bold style</s>
+    <s>Attribute executed on server</s>
+    <s>Attribute folder name</s>
+    <s>Attribute font name</s>
+    <s>Attribute invisible</s>
+    <s>Attribute italic style</s>
+    <s>Attribute published SOAP</s>
+    <s>Attribute published SQL</s>
+    <s>Attribute published Web</s>
+    <s>Attribute published WSDL</s>
+    <s>Attribute shared</s>
+    <s>Attribute strikethrough style</s>
+    <s>Attribute text color</s>
+    <s>Attribute text size</s>
+    <s>Attribute underline style</s>
+    <s>August</s>
+    <s>Austrian Schilling</s>
+    <s>Auto insertion</s>
+    <s>Auto key event</s>
+    <s>Auto repair mode</s>
+    <s>Auto synchro resources folder</s>
+    <s>Automatic</s>
+    <s>Automatic style sheet</s>
+    <s>Automatic style sheet_additional</s>
+    <s>Automatic style sheet_main</s>
+    <s>Background color</s>
+    <s>Background color none</s>
+    <s>Backspace</s>
+    <s>Backspace key</s>
+    <s>Backup history file</s>
+    <s>Backup log file</s>
+    <s>Backup process</s>
+    <s>Backup settings file</s>
+    <s>Backup settings file for data</s>
+    <s>Barber shop</s>
+    <s>BEL ASCII code</s>
+    <s>Belgian Franc</s>
+    <s>Black</s>
+    <s>Black and white</s>
+    <s>Blank if null date</s>
+    <s>Blank if null time</s>
+    <s>Blob array</s>
+    <s>Blue</s>
+    <s>Bold</s>
+    <s>Bold and Italic</s>
+    <s>Bold and Underline</s>
+    <s>Boolean array</s>
+    <s>Border Dotted</s>
+    <s>Border Double</s>
+    <s>Border None</s>
+    <s>Border Plain</s>
+    <s>Border Raised</s>
+    <s>Border Sunken</s>
+    <s>Border System</s>
+    <s>Brown</s>
+    <s>BS ASCII code</s>
+    <s>Build application log file</s>
+    <s>Build application settings file</s>
+    <s>Cache flush periodicity</s>
+    <s>Cache manager</s>
+    <s>Cache Priority high</s>
+    <s>Cache Priority low</s>
+    <s>Cache Priority normal</s>
+    <s>Cache Priority very high</s>
+    <s>Cache Priority very low</s>
+    <s>Cache unload minimum size</s>
+    <s>CAN ASCII code</s>
+    <s>Caps lock key bit</s>
+    <s>Caps lock key mask</s>
+    <s>Carriage return</s>
+    <s>Changed resource bit</s>
+    <s>Changed resource mask</s>
+    <s>Character set</s>
+    <s>Choice list</s>
+    <s>Circular log limitation</s>
+    <s>ck ascending</s>
+    <s>ck count values</s>
+    <s>ck descending</s>
+    <s>ck diacritical</s>
+    <s>ck disable wildchar</s>
+    <s>ck forget learning context</s>
+    <s>ck ignore null or empty</s>
+    <s>ck keep empty strings</s>
+    <s>ck keep learning context</s>
+    <s>ck keep null</s>
+    <s>ck not shared</s>
+    <s>ck resolve pointers</s>
+    <s>ck shared</s>
+    <s>Client character set</s>
+    <s>Client HTTPS port ID</s>
+    <s>Client log recording</s>
+    <s>Client manager process</s>
+    <s>Client max concurrent Web proc</s>
+    <s>Client port ID</s>
+    <s>Client Server port ID</s>
+    <s>Client Web log recording</s>
+    <s>Cluster BTree index</s>
+    <s>Code with tokens</s>
+    <s>Color option</s>
+    <s>Command key bit</s>
+    <s>Command key mask</s>
+    <s>Compact address table</s>
+    <s>Compact compression mode</s>
+    <s>Compacting log file</s>
+    <s>Compiler process</s>
+    <s>Control key bit</s>
+    <s>Control key mask</s>
+    <s>Controller form window</s>
+    <s>Copy XML data source</s>
+    <s>CR ASCII code</s>
+    <s>Create process</s>
+    <s>Created from execution dialog</s>
+    <s>Created from menu command</s>
+    <s>Crop</s>
+    <s>Currency symbol</s>
+    <s>Current backup settings file</s>
+    <s>Current localization</s>
+    <s>Current process debug log recording</s>
+    <s>Current resources folder</s>
+    <s>Dark blue</s>
+    <s>Dark brown</s>
+    <s>Dark green</s>
+    <s>Dark grey</s>
+    <s>Dark shadow color</s>
+    <s>Data bits 5</s>
+    <s>Data bits 6</s>
+    <s>Data bits 7</s>
+    <s>Data bits 8</s>
+    <s>Data folder</s>
+    <s>Database folder</s>
+    <s>Database folder UNIX syntax</s>
+    <s>Date array</s>
+    <s>Date RFC 1123</s>
+    <s>Date separator</s>
+    <s>Date type</s>
+    <s>Dates inside objects</s>
+    <s>DB4D Cron</s>
+    <s>DB4D Flush cache</s>
+    <s>DB4D Garbage collector</s>
+    <s>DB4D Index builder</s>
+    <s>DB4D Listener</s>
+    <s>DB4D Mirror</s>
+    <s>DB4D Worker pool user</s>
+    <s>DC1 ASCII code</s>
+    <s>DC2 ASCII code</s>
+    <s>DC3 ASCII code</s>
+    <s>DC4 ASCII code</s>
+    <s>Debug log file</s>
+    <s>Debug log recording</s>
+    <s>December</s>
+    <s>Decimal separator</s>
+    <s>Default index type</s>
+    <s>Default localization</s>
+    <s>Degree</s>
+    <s>DEL ASCII code</s>
+    <s>Delayed</s>
+    <s>Delete only if empty</s>
+    <s>Delete with contents</s>
+    <s>Demo version</s>
+    <s>Description in text format</s>
+    <s>Description in XML format</s>
+    <s>Design process</s>
+    <s>Desktop</s>
+    <s>Destination option</s>
+    <s>Deutsche Mark</s>
+    <s>Diagnostic log file</s>
+    <s>Diagnostic log level</s>
+    <s>Diagnostic log recording</s>
+    <s>Direct2D disabled</s>
+    <s>Direct2D get active status</s>
+    <s>Direct2D hardware</s>
+    <s>Direct2D software</s>
+    <s>Direct2D status</s>
+    <s>Directory file</s>
+    <s>Disable events others unchanged</s>
+    <s>Disable highlight item color</s>
+    <s>Disk event</s>
+    <s>dk ascending</s>
+    <s>dk auto merge</s>
+    <s>dk can be stopped by user</s>
+    <s>dk count values</s>
+    <s>dk descending</s>
+    <s>dk diacritical</s>
+    <s>dk distinct values</s>
+    <s>dk force drop if stamp changed</s>
+    <s>dk keep ordered</s>
+    <s>dk key as string</s>
+    <s>dk no ranges</s>
+    <s>dk non ordered</s>
+    <s>dk reload if stamp changed</s>
+    <s>dk silent mode</s>
+    <s>dk status automerge failed</s>
+    <s>dk status entity does not exist anymore</s>
+    <s>dk status locked</s>
+    <s>dk status serious error</s>
+    <s>dk status stamp has changed</s>
+    <s>dk status success</s>
+    <s>dk status wrong permission</s>
+    <s>dk stop dropping on first error</s>
+    <s>dk with primary key</s>
+    <s>dk with stamp</s>
+    <s>DLE ASCII code</s>
+    <s>Do not compact index</s>
+    <s>Do not create log file</s>
+    <s>Do not modify</s>
+    <s>DOCTYPE Name</s>
+    <s>Document unchanged</s>
+    <s>Document URI</s>
+    <s>Document with CR</s>
+    <s>Document with CRLF</s>
+    <s>Document with LF</s>
+    <s>Document with native format</s>
+    <s>Documents folder</s>
+    <s>Does not exist</s>
+    <s>Double quote</s>
+    <s>Double sided option</s>
+    <s>Down arrow key</s>
+    <s>e number</s>
+    <s>Editor theme folder</s>
+    <s>ek errors from components</s>
+    <s>ek global</s>
+    <s>ek local</s>
+    <s>EM ASCII code</s>
+    <s>Enable events disable others</s>
+    <s>Enable events others unchanged</s>
+    <s>Encoding</s>
+    <s>End key</s>
+    <s>ENQ ASCII code</s>
+    <s>Enter</s>
+    <s>Enter key</s>
+    <s>EOT ASCII code</s>
+    <s>Error message</s>
+    <s>ESC ASCII code</s>
+    <s>Escape</s>
+    <s>Escape key</s>
+    <s>ETB ASCII code</s>
+    <s>ETX ASCII code</s>
+    <s>Euro</s>
+    <s>Event manager</s>
+    <s>Excluded list</s>
+    <s>Execute on client process</s>
+    <s>Execute on server process</s>
+    <s>Executing</s>
+    <s>EXIF action</s>
+    <s>EXIF Adobe RGB</s>
+    <s>EXIF aperture priority AE</s>
+    <s>EXIF aperture value</s>
+    <s>EXIF auto</s>
+    <s>EXIF auto bracket</s>
+    <s>EXIF auto mode</s>
+    <s>EXIF average</s>
+    <s>EXIF B</s>
+    <s>EXIF brightness value</s>
+    <s>EXIF Cb</s>
+    <s>EXIF center weighted average</s>
+    <s>EXIF close</s>
+    <s>EXIF cloudy</s>
+    <s>EXIF color sequential area</s>
+    <s>EXIF color sequential linear</s>
+    <s>EXIF color space</s>
+    <s>EXIF components configuration</s>
+    <s>EXIF compressed bits per pixel</s>
+    <s>EXIF compulsory flash firing</s>
+    <s>EXIF compulsory flash suppression</s>
+    <s>EXIF contrast</s>
+    <s>EXIF cool white fluorescent</s>
+    <s>EXIF Cr</s>
+    <s>EXIF creative</s>
+    <s>EXIF custom</s>
+    <s>EXIF custom rendered</s>
+    <s>EXIF D50</s>
+    <s>EXIF D55</s>
+    <s>EXIF D65</s>
+    <s>EXIF D75</s>
+    <s>EXIF date time digitized</s>
+    <s>EXIF date time original</s>
+    <s>EXIF day white fluorescent</s>
+    <s>EXIF daylight</s>
+    <s>EXIF Daylight fluorescent</s>
+    <s>EXIF detected</s>
+    <s>EXIF digital camera</s>
+    <s>EXIF digital zoom ratio</s>
+    <s>EXIF distant</s>
+    <s>EXIF EXIF version</s>
+    <s>EXIF exposure bias value</s>
+    <s>EXIF exposure index</s>
+    <s>EXIF exposure mode</s>
+    <s>EXIF exposure portrait</s>
+    <s>EXIF exposure program</s>
+    <s>EXIF exposure time</s>
+    <s>EXIF F number</s>
+    <s>EXIF file source</s>
+    <s>EXIF film scanner</s>
+    <s>EXIF fine weather</s>
+    <s>EXIF flash</s>
+    <s>EXIF flash energy</s>
+    <s>EXIF Flash fired</s>
+    <s>EXIF flash function present</s>
+    <s>EXIF flash mode</s>
+    <s>EXIF flash pix version</s>
+    <s>EXIF flash red eye reduction</s>
+    <s>EXIF flash return light</s>
+    <s>EXIF flashlight</s>
+    <s>EXIF focal len in 35 mm film</s>
+    <s>EXIF focal length</s>
+    <s>EXIF focal plane resolution unit</s>
+    <s>EXIF focal plane X resolution</s>
+    <s>EXIF focal plane Y resolution</s>
+    <s>EXIF G</s>
+    <s>EXIF gain control</s>
+    <s>EXIF gamma</s>
+    <s>EXIF high</s>
+    <s>EXIF high gain down</s>
+    <s>EXIF high gain up</s>
+    <s>EXIF image unique ID</s>
+    <s>EXIF ISO speed ratings</s>
+    <s>EXIF ISOStudio tungsten</s>
+    <s>EXIF landscape</s>
+    <s>EXIF light fluorescent</s>
+    <s>EXIF light source</s>
+    <s>EXIF low</s>
+    <s>EXIF low gain down</s>
+    <s>EXIF low gain up</s>
+    <s>EXIF macro</s>
+    <s>EXIF maker note</s>
+    <s>EXIF manual</s>
+    <s>EXIF max aperture value</s>
+    <s>EXIF metering Mode</s>
+    <s>EXIF multi segment</s>
+    <s>EXIF multi spot</s>
+    <s>EXIF night</s>
+    <s>EXIF no detection function</s>
+    <s>EXIF none</s>
+    <s>EXIF normal</s>
+    <s>EXIF not defined</s>
+    <s>EXIF not detected</s>
+    <s>EXIF one chip color area</s>
+    <s>EXIF other</s>
+    <s>EXIF partial</s>
+    <s>EXIF pixel X dimension</s>
+    <s>EXIF pixel Y dimension</s>
+    <s>EXIF program AE</s>
+    <s>EXIF R</s>
+    <s>EXIF reflection print scanner</s>
+    <s>EXIF related sound file</s>
+    <s>EXIF reserved</s>
+    <s>EXIF s RGB</s>
+    <s>EXIF saturation</s>
+    <s>EXIF scene capture type</s>
+    <s>EXIF scene landscape</s>
+    <s>EXIF scene portrait</s>
+    <s>EXIF scene type</s>
+    <s>EXIF sensing method</s>
+    <s>EXIF shade</s>
+    <s>EXIF sharpness</s>
+    <s>EXIF shutter speed priority AE</s>
+    <s>EXIF shutter speed value</s>
+    <s>EXIF spectral sensitivity</s>
+    <s>EXIF spot</s>
+    <s>EXIF standard</s>
+    <s>EXIF standard light A</s>
+    <s>EXIF standard light B</s>
+    <s>EXIF standard light C</s>
+    <s>EXIF subject area</s>
+    <s>EXIF subject dist range</s>
+    <s>EXIF subject Distance</s>
+    <s>EXIF subject location</s>
+    <s>EXIF three chip color area</s>
+    <s>EXIF trilinear</s>
+    <s>EXIF tungsten</s>
+    <s>EXIF two chip color area</s>
+    <s>EXIF uncalibrated</s>
+    <s>EXIF unknown</s>
+    <s>EXIF unused</s>
+    <s>EXIF user comment</s>
+    <s>EXIF white balance</s>
+    <s>EXIF white fluorescent</s>
+    <s>EXIF Y</s>
+    <s>Extended real format</s>
+    <s>External task</s>
+    <s>External window</s>
+    <s>F1 key</s>
+    <s>F10 key</s>
+    <s>F11 key</s>
+    <s>F12 key</s>
+    <s>F13 key</s>
+    <s>F14 key</s>
+    <s>F15 key</s>
+    <s>F2 key</s>
+    <s>F3 key</s>
+    <s>F4 key</s>
+    <s>F5 key</s>
+    <s>F6 key</s>
+    <s>F7 key</s>
+    <s>F8 key</s>
+    <s>F9 key</s>
+    <s>Fade to grey scale</s>
+    <s>Fast compression mode</s>
+    <s>Favorite fonts</s>
+    <s>Favorites Win</s>
+    <s>February</s>
+    <s>FF ASCII code</s>
+    <s>Field attribute with name</s>
+    <s>Field attribute with number</s>
+    <s>File name entry</s>
+    <s>Finnish Markka</s>
+    <s>fk alias link</s>
+    <s>fk applications folder</s>
+    <s>fk data folder</s>
+    <s>fk database folder</s>
+    <s>fk desktop folder</s>
+    <s>fk documents folder</s>
+    <s>fk editor theme folder</s>
+    <s>fk home folder</s>
+    <s>fk ignore invisible</s>
+    <s>fk licenses folder</s>
+    <s>fk logs folder</s>
+    <s>fk mobileApps folder</s>
+    <s>fk overwrite</s>
+    <s>fk platform path</s>
+    <s>fk posix path</s>
+    <s>fk recursive</s>
+    <s>fk remote database folder</s>
+    <s>fk resources folder</s>
+    <s>fk symbolic link</s>
+    <s>fk system folder</s>
+    <s>fk user preferences folder</s>
+    <s>fk web root folder</s>
+    <s>Flip horizontally</s>
+    <s>Flip vertically</s>
+    <s>Floating window</s>
+    <s>Folder separator</s>
+    <s>Folder separator</s>
+    <s>Folder separator</s>
+    <s>Fonts</s>
+    <s>Foreground color</s>
+    <s>Form all pages</s>
+    <s>Form break0</s>
+    <s>Form break1</s>
+    <s>Form break2</s>
+    <s>Form break3</s>
+    <s>Form break4</s>
+    <s>Form break5</s>
+    <s>Form break6</s>
+    <s>Form break7</s>
+    <s>Form break8</s>
+    <s>Form break9</s>
+    <s>Form current page</s>
+    <s>Form detail</s>
+    <s>Form footer</s>
+    <s>Form has full screen mode Mac</s>
+    <s>Form has no menu bar</s>
+    <s>Form header</s>
+    <s>Form header1</s>
+    <s>Form header10</s>
+    <s>Form header2</s>
+    <s>Form header3</s>
+    <s>Form header4</s>
+    <s>Form header5</s>
+    <s>Form header6</s>
+    <s>Form header7</s>
+    <s>Form header8</s>
+    <s>Form header9</s>
+    <s>Form inherited</s>
+    <s>Formula in with virtual structure</s>
+    <s>Formula out with tokens</s>
+    <s>Formula out with virtual structure</s>
+    <s>Four colors</s>
+    <s>French Franc</s>
+    <s>Friday</s>
+    <s>FS ASCII code</s>
+    <s>Full method text</s>
+    <s>Generic PDF driver</s>
+    <s>Get pathname</s>
+    <s>Get XML data source</s>
+    <s>GPS 2D</s>
+    <s>GPS 3D</s>
+    <s>GPS above sea level</s>
+    <s>GPS altitude</s>
+    <s>GPS altitude ref</s>
+    <s>GPS area information</s>
+    <s>GPS below sea level</s>
+    <s>GPS correction applied</s>
+    <s>GPS correction not applied</s>
+    <s>GPS date time</s>
+    <s>GPS dest bearing</s>
+    <s>GPS dest bearing ref</s>
+    <s>GPS dest distance</s>
+    <s>GPS dest distance ref</s>
+    <s>GPS dest latitude</s>
+    <s>GPS dest latitude deg</s>
+    <s>GPS dest latitude dir</s>
+    <s>GPS dest latitude min</s>
+    <s>GPS dest latitude sec</s>
+    <s>GPS dest longitude</s>
+    <s>GPS dest longitude deg</s>
+    <s>GPS dest longitude dir</s>
+    <s>GPS dest longitude min</s>
+    <s>GPS dest longitude sec</s>
+    <s>GPS differential</s>
+    <s>GPS DOP</s>
+    <s>GPS east</s>
+    <s>GPS img direction</s>
+    <s>GPS img direction ref</s>
+    <s>GPS km h</s>
+    <s>GPS knots h</s>
+    <s>GPS latitude</s>
+    <s>GPS latitude deg</s>
+    <s>GPS latitude dir</s>
+    <s>GPS latitude min</s>
+    <s>GPS latitude sec</s>
+    <s>GPS longitude</s>
+    <s>GPS longitude deg</s>
+    <s>GPS longitude dir</s>
+    <s>GPS longitude min</s>
+    <s>GPS longitude sec</s>
+    <s>GPS magnetic north</s>
+    <s>GPS map datum</s>
+    <s>GPS measure mode</s>
+    <s>GPS measurement in progress</s>
+    <s>GPS measurement Interoperability</s>
+    <s>GPS miles h</s>
+    <s>GPS north</s>
+    <s>GPS processing method</s>
+    <s>GPS satellites</s>
+    <s>GPS south</s>
+    <s>GPS speed</s>
+    <s>GPS speed ref</s>
+    <s>GPS status</s>
+    <s>GPS track</s>
+    <s>GPS track ref</s>
+    <s>GPS true north</s>
+    <s>GPS version ID</s>
+    <s>GPS west</s>
+    <s>Graph background color</s>
+    <s>Graph background opacity</s>
+    <s>Graph background shadow color</s>
+    <s>Graph bottom margin</s>
+    <s>Graph colors</s>
+    <s>Graph column gap</s>
+    <s>Graph column width max</s>
+    <s>Graph column width min</s>
+    <s>Graph default height</s>
+    <s>Graph default width</s>
+    <s>Graph display legend</s>
+    <s>Graph document background color</s>
+    <s>Graph document background opacity</s>
+    <s>Graph font color</s>
+    <s>Graph font family</s>
+    <s>Graph font size</s>
+    <s>Graph left margin</s>
+    <s>Graph legend font color</s>
+    <s>Graph legend icon gap</s>
+    <s>Graph legend icon height</s>
+    <s>Graph legend icon width</s>
+    <s>Graph legend labels</s>
+    <s>Graph line width</s>
+    <s>Graph number format</s>
+    <s>Graph pie direction</s>
+    <s>Graph pie font size</s>
+    <s>Graph pie shift</s>
+    <s>Graph pie start angle</s>
+    <s>Graph plot height</s>
+    <s>Graph plot radius</s>
+    <s>Graph plot width</s>
+    <s>Graph right margin</s>
+    <s>Graph top margin</s>
+    <s>Graph type</s>
+    <s>Graph xGrid</s>
+    <s>Graph xMax</s>
+    <s>Graph xMin</s>
+    <s>Graph xProp</s>
+    <s>Graph yGrid</s>
+    <s>Graph yMax</s>
+    <s>Graph yMin</s>
+    <s>Greek Drachma</s>
+    <s>Green</s>
+    <s>Grey</s>
+    <s>GS ASCII code</s>
+    <s>GZIP best compression mode</s>
+    <s>GZIP fast compression mode</s>
+    <s>Has full screen mode Mac</s>
+    <s>Has grow box</s>
+    <s>Has highlight</s>
+    <s>Has window title</s>
+    <s>Has zoom box</s>
+    <s>Help key</s>
+    <s>HH MM</s>
+    <s>HH MM AM PM</s>
+    <s>HH MM SS</s>
+    <s>Highlight menu background color</s>
+    <s>Highlight menu text color</s>
+    <s>Highlight text background color</s>
+    <s>Highlight text color</s>
+    <s>Highlighted method text</s>
+    <s>Home folder</s>
+    <s>Home key</s>
+    <s>Horizontal concatenation</s>
+    <s>Horizontally centered</s>
+    <s>Hour min</s>
+    <s>Hour min sec</s>
+    <s>HT ASCII code</s>
+    <s>HTML Root folder</s>
+    <s>HTTP basic</s>
+    <s>HTTP client log</s>
+    <s>HTTP Client log file</s>
+    <s>HTTP compression</s>
+    <s>HTTP compression level</s>
+    <s>HTTP compression threshold</s>
+    <s>HTTP debug log file</s>
+    <s>HTTP DELETE method</s>
+    <s>HTTP digest</s>
+    <s>HTTP disable log</s>
+    <s>HTTP display auth dial</s>
+    <s>HTTP enable log with all body parts</s>
+    <s>HTTP enable log with request body</s>
+    <s>HTTP enable log with response body</s>
+    <s>HTTP enable log without body</s>
+    <s>HTTP follow redirect</s>
+    <s>HTTP GET method</s>
+    <s>HTTP HEAD method</s>
+    <s>HTTP Listener</s>
+    <s>HTTP log file</s>
+    <s>HTTP Log Flusher</s>
+    <s>HTTP max redirect</s>
+    <s>HTTP OPTIONS method</s>
+    <s>HTTP POST method</s>
+    <s>HTTP PUT method</s>
+    <s>HTTP reset auth settings</s>
+    <s>HTTP timeout</s>
+    <s>HTTP TRACE method</s>
+    <s>HTTP Worker pool server</s>
+    <s>HTTPS port ID</s>
+    <s>Idle connections timeout</s>
+    <s>Ignore invisible</s>
+    <s>IMAP all</s>
+    <s>IMAP authentication CRAM MD5</s>
+    <s>IMAP authentication login</s>
+    <s>IMAP authentication OAUTH2</s>
+    <s>IMAP authentication plain</s>
+    <s>IMAP Log</s>
+    <s>IMAP log file</s>
+    <s>IMAP read only state</s>
+    <s>IMAP read write state</s>
+    <s>Indexing process</s>
+    <s>Information message</s>
+    <s>Integer array</s>
+    <s>Intel compatible</s>
+    <s>Internal 4D localization</s>
+    <s>Internal 4D server process</s>
+    <s>Internal date abbreviated</s>
+    <s>Internal date long</s>
+    <s>Internal date short</s>
+    <s>Internal date short special</s>
+    <s>Internal timer process</s>
+    <s>Into 4D commands log</s>
+    <s>Into 4D debug message</s>
+    <s>Into 4D diagnostic log</s>
+    <s>Into 4D request log</s>
+    <s>Into current selection</s>
+    <s>Into named selection</s>
+    <s>Into set</s>
+    <s>Into system standard outputs</s>
+    <s>Into variable</s>
+    <s>Into windows log events</s>
+    <s>IPTC action</s>
+    <s>IPTC aerial view</s>
+    <s>IPTC byline</s>
+    <s>IPTC byline title</s>
+    <s>IPTC caption abstract</s>
+    <s>IPTC category</s>
+    <s>IPTC city</s>
+    <s>IPTC close up</s>
+    <s>IPTC contact</s>
+    <s>IPTC content location code</s>
+    <s>IPTC content location name</s>
+    <s>IPTC copyright notice</s>
+    <s>IPTC country primary location code</s>
+    <s>IPTC country primary location name</s>
+    <s>IPTC couple</s>
+    <s>IPTC credit</s>
+    <s>IPTC Date time created</s>
+    <s>IPTC Digital creation date time</s>
+    <s>IPTC edit status</s>
+    <s>IPTC expiration date time</s>
+    <s>IPTC exterior view</s>
+    <s>IPTC fixture identifier</s>
+    <s>IPTC full length</s>
+    <s>IPTC general view</s>
+    <s>IPTC group</s>
+    <s>IPTC half length</s>
+    <s>IPTC headline</s>
+    <s>IPTC headshot</s>
+    <s>IPTC image orientation</s>
+    <s>IPTC image type</s>
+    <s>IPTC interior view</s>
+    <s>IPTC keywords</s>
+    <s>IPTC language identifier</s>
+    <s>IPTC movie scene</s>
+    <s>IPTC night scene</s>
+    <s>IPTC object Attribute reference</s>
+    <s>IPTC object cycle</s>
+    <s>IPTC object name</s>
+    <s>IPTC off beat</s>
+    <s>IPTC original transmission reference</s>
+    <s>IPTC originating program</s>
+    <s>IPTC panoramic view</s>
+    <s>IPTC performing</s>
+    <s>IPTC posing</s>
+    <s>IPTC profile</s>
+    <s>IPTC program version</s>
+    <s>IPTC province state</s>
+    <s>IPTC rear view</s>
+    <s>IPTC release date time</s>
+    <s>IPTC satellite</s>
+    <s>IPTC scene</s>
+    <s>IPTC single</s>
+    <s>IPTC source</s>
+    <s>IPTC special instructions</s>
+    <s>IPTC star rating</s>
+    <s>IPTC sub Location</s>
+    <s>IPTC subject reference</s>
+    <s>IPTC supplemental category</s>
+    <s>IPTC symbolic</s>
+    <s>IPTC two</s>
+    <s>IPTC under water</s>
+    <s>IPTC urgency</s>
+    <s>IPTC writer editor</s>
+    <s>Irish Pound</s>
+    <s>Is a document</s>
+    <s>Is a folder</s>
+    <s>Is alpha field</s>
+    <s>Is BLOB</s>
+    <s>Is boolean</s>
+    <s>Is collection</s>
+    <s>Is color</s>
+    <s>Is current database a project</s>
+    <s>Is date</s>
+    <s>Is DOM reference</s>
+    <s>Is gray scale</s>
+    <s>Is host database a project</s>
+    <s>Is host database writable</s>
+    <s>Is integer</s>
+    <s>Is integer 64 bits</s>
+    <s>Is longint</s>
+    <s>Is not compressed</s>
+    <s>Is null</s>
+    <s>Is object</s>
+    <s>Is picture</s>
+    <s>Is pointer</s>
+    <s>Is real</s>
+    <s>Is string var</s>
+    <s>Is subtable</s>
+    <s>Is text</s>
+    <s>Is time</s>
+    <s>Is undefined</s>
+    <s>Is variant</s>
+    <s>Is XML</s>
+    <s>ISO date</s>
+    <s>ISO date GMT</s>
+    <s>ISO L1 a acute</s>
+    <s>ISO L1 a circumflex</s>
+    <s>ISO L1 a grave</s>
+    <s>ISO L1 a ring</s>
+    <s>ISO L1 a tilde</s>
+    <s>ISO L1 a umlaut</s>
+    <s>ISO L1 ae ligature</s>
+    <s>ISO L1 Ampersand</s>
+    <s>ISO L1 c cedilla</s>
+    <s>ISO L1 Cap A acute</s>
+    <s>ISO L1 Cap A circumflex</s>
+    <s>ISO L1 Cap A grave</s>
+    <s>ISO L1 Cap A ring</s>
+    <s>ISO L1 Cap A tilde</s>
+    <s>ISO L1 Cap A umlaut</s>
+    <s>ISO L1 Cap AE ligature</s>
+    <s>ISO L1 Cap C cedilla</s>
+    <s>ISO L1 Cap E acute</s>
+    <s>ISO L1 Cap E circumflex</s>
+    <s>ISO L1 Cap E grave</s>
+    <s>ISO L1 Cap E umlaut</s>
+    <s>ISO L1 Cap Eth Icelandic</s>
+    <s>ISO L1 Cap I acute</s>
+    <s>ISO L1 Cap I circumflex</s>
+    <s>ISO L1 Cap I grave</s>
+    <s>ISO L1 Cap I umlaut</s>
+    <s>ISO L1 Cap N tilde</s>
+    <s>ISO L1 Cap O acute</s>
+    <s>ISO L1 Cap O circumflex</s>
+    <s>ISO L1 Cap O grave</s>
+    <s>ISO L1 Cap O slash</s>
+    <s>ISO L1 Cap O tilde</s>
+    <s>ISO L1 Cap O umlaut</s>
+    <s>ISO L1 Cap THORN Icelandic</s>
+    <s>ISO L1 Cap U acute</s>
+    <s>ISO L1 Cap U circumflex</s>
+    <s>ISO L1 Cap U grave</s>
+    <s>ISO L1 Cap U umlaut</s>
+    <s>ISO L1 Cap Y acute</s>
+    <s>ISO L1 Copyright</s>
+    <s>ISO L1 e acute</s>
+    <s>ISO L1 e circumflex</s>
+    <s>ISO L1 e grave</s>
+    <s>ISO L1 e umlaut</s>
+    <s>ISO L1 eth Icelandic</s>
+    <s>ISO L1 Greater than</s>
+    <s>ISO L1 i acute</s>
+    <s>ISO L1 i circumflex</s>
+    <s>ISO L1 i grave</s>
+    <s>ISO L1 i umlaut</s>
+    <s>ISO L1 Less than</s>
+    <s>ISO L1 n tilde</s>
+    <s>ISO L1 o acute</s>
+    <s>ISO L1 o circumflex</s>
+    <s>ISO L1 o grave</s>
+    <s>ISO L1 o slash</s>
+    <s>ISO L1 o tilde</s>
+    <s>ISO L1 o umlaut</s>
+    <s>ISO L1 Quotation mark</s>
+    <s>ISO L1 Registered</s>
+    <s>ISO L1 sharp s German</s>
+    <s>ISO L1 thorn Icelandic</s>
+    <s>ISO L1 u acute</s>
+    <s>ISO L1 u circumflex</s>
+    <s>ISO L1 u grave</s>
+    <s>ISO L1 u umlaut</s>
+    <s>ISO L1 y acute</s>
+    <s>ISO L1 y umlaut</s>
+    <s>ISO time</s>
+    <s>Italian Lira</s>
+    <s>Italic</s>
+    <s>Italic and Underline</s>
+    <s>January</s>
+    <s>July</s>
+    <s>June</s>
+    <s>Key down event</s>
+    <s>Key up event</s>
+    <s>Keywords index</s>
+    <s>kp preview automatic</s>
+    <s>kp preview none</s>
+    <s>kp preview PDF</s>
+    <s>kp preview XPS</s>
+    <s>Last backup date</s>
+    <s>Last backup file</s>
+    <s>Last Backup information</s>
+    <s>Last backup status</s>
+    <s>Last journal integration log file</s>
+    <s>Last restore date</s>
+    <s>Last restore status</s>
+    <s>LDAP all levels</s>
+    <s>LDAP password MD5</s>
+    <s>LDAP password plain text</s>
+    <s>LDAP root and next</s>
+    <s>LDAP root only</s>
+    <s>Left arrow key</s>
+    <s>Legacy printing layer option</s>
+    <s>LF ASCII code</s>
+    <s>Libldap version</s>
+    <s>Libsasl version</s>
+    <s>Libzip version</s>
+    <s>Licenses folder</s>
+    <s>Light blue</s>
+    <s>Light grey</s>
+    <s>Light shadow color</s>
+    <s>Line feed</s>
+    <s>lk add to selection</s>
+    <s>lk all</s>
+    <s>lk allow wordwrap</s>
+    <s>lk auto row height</s>
+    <s>lk automatic</s>
+    <s>lk background color</s>
+    <s>lk background color array</s>
+    <s>lk background color expression</s>
+    <s>lk break row</s>
+    <s>lk cell horizontal padding</s>
+    <s>lk cell vertical padding</s>
+    <s>lk column max width</s>
+    <s>lk column min width</s>
+    <s>lk column resizable</s>
+    <s>lk control array</s>
+    <s>lk detail form name</s>
+    <s>lk display</s>
+    <s>lk display footer</s>
+    <s>lk display header</s>
+    <s>lk display record</s>
+    <s>lk display type</s>
+    <s>lk do nothing</s>
+    <s>lk double click on row</s>
+    <s>lk edit record</s>
+    <s>lk extra rows</s>
+    <s>lk font color</s>
+    <s>lk font color array</s>
+    <s>lk font color expression</s>
+    <s>lk font style expression</s>
+    <s>lk footer average</s>
+    <s>lk footer count</s>
+    <s>lk footer custom</s>
+    <s>lk footer max</s>
+    <s>lk footer min</s>
+    <s>lk footer std deviation</s>
+    <s>lk footer sum</s>
+    <s>lk footer sum squares</s>
+    <s>lk footer variance</s>
+    <s>lk hide</s>
+    <s>lk hide selection highlight</s>
+    <s>lk highlight set</s>
+    <s>lk hor scrollbar height</s>
+    <s>lk inherited</s>
+    <s>lk last printed row number</s>
+    <s>lk level</s>
+    <s>lk lines</s>
+    <s>lk manual</s>
+    <s>lk meta expression</s>
+    <s>lk movable rows</s>
+    <s>lk multi style</s>
+    <s>lk multiple</s>
+    <s>lk named selection</s>
+    <s>lk no</s>
+    <s>lk none</s>
+    <s>lk numeric format</s>
+    <s>lk pixels</s>
+    <s>lk printed height</s>
+    <s>lk printed rows</s>
+    <s>lk printing is over</s>
+    <s>lk remove from selection</s>
+    <s>lk replace selection</s>
+    <s>lk resizing mode</s>
+    <s>lk row height array</s>
+    <s>lk row height unit</s>
+    <s>lk row is disabled</s>
+    <s>lk row is hidden</s>
+    <s>lk row is not selectable</s>
+    <s>lk row max height</s>
+    <s>lk row min height</s>
+    <s>lk selection</s>
+    <s>lk selection mode</s>
+    <s>lk single</s>
+    <s>lk single click edit</s>
+    <s>lk sortable</s>
+    <s>lk style array</s>
+    <s>lk three states checkbox</s>
+    <s>lk truncate</s>
+    <s>lk ver scrollbar width</s>
+    <s>lk with ellipsis</s>
+    <s>lk without ellipsis</s>
+    <s>lk yes</s>
+    <s>Locked resource bit</s>
+    <s>Locked resource mask</s>
+    <s>Log command list</s>
+    <s>Log debug</s>
+    <s>Log error</s>
+    <s>Log file process</s>
+    <s>Log info</s>
+    <s>Log trace</s>
+    <s>Log warn</s>
+    <s>Logger process</s>
+    <s>Logs folder</s>
+    <s>LongInt array</s>
+    <s>Luxembourg Franc</s>
+    <s>Mac C string</s>
+    <s>Mac OS</s>
+    <s>Mac Pascal string</s>
+    <s>Mac spool file format option</s>
+    <s>Mac text with length</s>
+    <s>Mac text without length</s>
+    <s>Macintosh byte ordering</s>
+    <s>Macintosh double real format</s>
+    <s>MacOS printer port</s>
+    <s>MacOS serial port</s>
+    <s>mail disposition attachment</s>
+    <s>mail disposition inline</s>
+    <s>mail mode ISO2022JP</s>
+    <s>mail mode ISO88591</s>
+    <s>mail mode UTF8</s>
+    <s>mail mode UTF8 in base64</s>
+    <s>Main 4D process</s>
+    <s>Main process</s>
+    <s>Manual</s>
+    <s>March</s>
+    <s>Max concurrent Web processes</s>
+    <s>Maximum Web requests size</s>
+    <s>MAXINT</s>
+    <s>MAXLONG</s>
+    <s>MAXTEXTLENBEFOREV11</s>
+    <s>May</s>
+    <s>MD5 digest</s>
+    <s>Merged application</s>
+    <s>Method editor macro process</s>
+    <s>Millions of colors 24 bit</s>
+    <s>Millions of colors 32 bit</s>
+    <s>Min sec</s>
+    <s>Min TLS version</s>
+    <s>MM SS</s>
+    <s>MobileApps folder</s>
+    <s>Modal dialog</s>
+    <s>Modal dialog box</s>
+    <s>Modal form dialog box</s>
+    <s>Monday</s>
+    <s>Monitor process</s>
+    <s>Mouse button bit</s>
+    <s>Mouse button mask</s>
+    <s>Mouse down event</s>
+    <s>Mouse up event</s>
+    <s>Movable dialog box</s>
+    <s>Movable form dialog box</s>
+    <s>Move to replaced files folder</s>
+    <s>MSC Process</s>
+    <s>Multiline Auto</s>
+    <s>Multiline No</s>
+    <s>Multiline Yes</s>
+    <s>Multiple files</s>
+    <s>Multiple selection</s>
+    <s>NAK ASCII code</s>
+    <s>Native byte ordering</s>
+    <s>Native real format</s>
+    <s>NBSP ASCII CODE</s>
+    <s>Netherlands Guilder</s>
+    <s>New file</s>
+    <s>New file dialog</s>
+    <s>New record</s>
+    <s>Next backup date</s>
+    <s>No current record</s>
+    <s>No relation</s>
+    <s>No selection</s>
+    <s>No such data in pasteboard</s>
+    <s>None</s>
+    <s>Normal</s>
+    <s>November</s>
+    <s>NUL ASCII code</s>
+    <s>Null event</s>
+    <s>Number of copies option</s>
+    <s>Number of formulas in cache</s>
+    <s>Object array</s>
+    <s>Object current</s>
+    <s>Object first in entry order</s>
+    <s>Object named</s>
+    <s>Object subform container</s>
+    <s>Object type 3D button</s>
+    <s>Object type 3D checkbox</s>
+    <s>Object type 3D radio button</s>
+    <s>Object type button grid</s>
+    <s>Object type checkbox</s>
+    <s>Object type combobox</s>
+    <s>Object type dial</s>
+    <s>Object type group</s>
+    <s>Object type groupbox</s>
+    <s>Object type hierarchical list</s>
+    <s>Object type hierarchical popup menu</s>
+    <s>Object type highlight button</s>
+    <s>Object type invisible button</s>
+    <s>Object type line</s>
+    <s>Object type listbox</s>
+    <s>Object type listbox column</s>
+    <s>Object type listbox footer</s>
+    <s>Object type listbox header</s>
+    <s>Object type matrix</s>
+    <s>Object type oval</s>
+    <s>Object type picture button</s>
+    <s>Object type picture input</s>
+    <s>Object type picture popup menu</s>
+    <s>Object type picture radio button</s>
+    <s>Object type plugin area</s>
+    <s>Object type popup dropdown list</s>
+    <s>Object type progress indicator</s>
+    <s>Object type push button</s>
+    <s>Object type radio button</s>
+    <s>Object type radio button field</s>
+    <s>Object type rectangle</s>
+    <s>Object type rounded rectangle</s>
+    <s>Object type ruler</s>
+    <s>Object type splitter</s>
+    <s>Object type static picture</s>
+    <s>Object type static text</s>
+    <s>Object type subform</s>
+    <s>Object type tab control</s>
+    <s>Object type text input</s>
+    <s>Object type unknown</s>
+    <s>Object type view pro area</s>
+    <s>Object type web area</s>
+    <s>Object type write pro area</s>
+    <s>Object with focus</s>
+    <s>obk enterable</s>
+    <s>obk not enterable</s>
+    <s>obk not enterable not focusable</s>
+    <s>October</s>
+    <s>On Activate</s>
+    <s>On After Edit</s>
+    <s>On after host database exit</s>
+    <s>On after host database startup</s>
+    <s>On After Keystroke</s>
+    <s>On After Sort</s>
+    <s>On Alternative Click</s>
+    <s>On application background move</s>
+    <s>On application foreground move</s>
+    <s>On background</s>
+    <s>On Before Data Entry</s>
+    <s>On before host database exit</s>
+    <s>On before host database startup</s>
+    <s>On Before Keystroke</s>
+    <s>On Begin Drag Over</s>
+    <s>On Begin URL Loading</s>
+    <s>On Bound Variable Change</s>
+    <s>On Clicked</s>
+    <s>On Close Box</s>
+    <s>On Close Detail</s>
+    <s>On Collapse</s>
+    <s>On Column Moved</s>
+    <s>On Column Resize</s>
+    <s>On Data Change</s>
+    <s>On Deactivate</s>
+    <s>On Delete Action</s>
+    <s>On Deleting Record Event</s>
+    <s>On Display Detail</s>
+    <s>On Double Clicked</s>
+    <s>On Drag Over</s>
+    <s>On Drop</s>
+    <s>On End URL Loading</s>
+    <s>On exit process</s>
+    <s>On Expand</s>
+    <s>On Footer Click</s>
+    <s>On Getting Focus</s>
+    <s>On Header</s>
+    <s>On Header Click</s>
+    <s>On Load</s>
+    <s>On Load Record</s>
+    <s>On Long Click</s>
+    <s>On Losing Focus</s>
+    <s>On Menu Selected</s>
+    <s>On Mouse Enter</s>
+    <s>On Mouse Leave</s>
+    <s>On Mouse Move</s>
+    <s>On Mouse Up</s>
+    <s>On object locked abort</s>
+    <s>On object locked confirm</s>
+    <s>On object locked retry</s>
+    <s>On Open Detail</s>
+    <s>On Open External Link</s>
+    <s>On Outside Call</s>
+    <s>On Page Change</s>
+    <s>On Plug in Area</s>
+    <s>On Printing Break</s>
+    <s>On Printing Detail</s>
+    <s>On Printing Footer</s>
+    <s>On Resize</s>
+    <s>On Row Moved</s>
+    <s>On Row Resize</s>
+    <s>On Saving Existing Record Event</s>
+    <s>On Saving New Record Event</s>
+    <s>On Scroll</s>
+    <s>On Selection Change</s>
+    <s>On the left</s>
+    <s>On the right</s>
+    <s>On Timer</s>
+    <s>On Unload</s>
+    <s>On URL Filtering</s>
+    <s>On URL Loading Error</s>
+    <s>On URL Resource Loading</s>
+    <s>On Validate</s>
+    <s>On VP Range Changed</s>
+    <s>On VP Ready</s>
+    <s>On Window Opening Denied</s>
+    <s>OpenSSL version</s>
+    <s>Operating system event</s>
+    <s>Option key bit</s>
+    <s>Option key mask</s>
+    <s>Orange</s>
+    <s>Order by formula on server</s>
+    <s>Orientation 0&#176;</s>
+    <s>Orientation 180&#176;</s>
+    <s>Orientation 90&#176; left</s>
+    <s>Orientation 90&#176; right</s>
+    <s>Orientation option</s>
+    <s>Other 4D process</s>
+    <s>Other internal process</s>
+    <s>Other user process</s>
+    <s>Own XML data source</s>
+    <s>Package open</s>
+    <s>Package selection</s>
+    <s>Page down key</s>
+    <s>Page range option</s>
+    <s>Page setup dialog</s>
+    <s>Page up key</s>
+    <s>Palette form window</s>
+    <s>Palette window</s>
+    <s>Paper option</s>
+    <s>Paper source option</s>
+    <s>Parity even</s>
+    <s>Parity none</s>
+    <s>Parity odd</s>
+    <s>Path all objects</s>
+    <s>Path class</s>
+    <s>Path database method</s>
+    <s>Path is POSIX</s>
+    <s>Path is system</s>
+    <s>Path project form</s>
+    <s>Path project method</s>
+    <s>Path table form</s>
+    <s>Path trigger</s>
+    <s>Pause logging</s>
+    <s>Paused</s>
+    <s>PC byte ordering</s>
+    <s>PC double real format</s>
+    <s>Period</s>
+    <s>PHP interpreter IP address</s>
+    <s>PHP interpreter port</s>
+    <s>PHP max requests</s>
+    <s>PHP number of children</s>
+    <s>PHP privileges</s>
+    <s>PHP raw result</s>
+    <s>PHP use external interpreter</s>
+    <s>Pi</s>
+    <s>Picture array</s>
+    <s>Picture data</s>
+    <s>Picture document</s>
+    <s>Plain</s>
+    <s>Plain dialog box</s>
+    <s>Plain fixed size window</s>
+    <s>Plain form window</s>
+    <s>Plain no zoom box window</s>
+    <s>Plain window</s>
+    <s>Pointer array</s>
+    <s>Pop up form window</s>
+    <s>Pop up window</s>
+    <s>POP3 authentication APOP</s>
+    <s>POP3 authentication CRAM MD5</s>
+    <s>POP3 authentication login</s>
+    <s>POP3 authentication OAUTH2</s>
+    <s>POP3 authentication plain</s>
+    <s>POP3 authentication user</s>
+    <s>POP3 Log</s>
+    <s>POP3 log file</s>
+    <s>Port ID</s>
+    <s>Portuguese Escudo</s>
+    <s>Posix path</s>
+    <s>Power PC</s>
+    <s>Preloaded resource bit</s>
+    <s>Preloaded resource mask</s>
+    <s>Print dialog</s>
+    <s>Print Frame fixed with multiple records</s>
+    <s>Print Frame fixed with truncation</s>
+    <s>Print preview option</s>
+    <s>Processes only</s>
+    <s>Progress bar</s>
+    <s>Protected resource bit</s>
+    <s>Protected resource mask</s>
+    <s>Protocol DTR</s>
+    <s>Protocol none</s>
+    <s>Protocol XONXOFF</s>
+    <s>PUBLIC ID</s>
+    <s>Purgeable resource bit</s>
+    <s>Purgeable resource mask</s>
+    <s>Purple</s>
+    <s>qr alternate background color</s>
+    <s>qr average</s>
+    <s>qr background color</s>
+    <s>qr bold</s>
+    <s>qr bottom border</s>
+    <s>qr cmd 4D View destination</s>
+    <s>qr cmd add column</s>
+    <s>qr cmd alt back color palette</s>
+    <s>qr cmd automatic width</s>
+    <s>qr cmd average</s>
+    <s>qr cmd back color palette</s>
+    <s>qr cmd back colors toolbar</s>
+    <s>qr cmd bold</s>
+    <s>qr cmd borders</s>
+    <s>qr cmd center justified</s>
+    <s>qr cmd columns toolbar</s>
+    <s>qr cmd count</s>
+    <s>qr cmd default justified</s>
+    <s>qr cmd delete column</s>
+    <s>qr cmd disk file destination</s>
+    <s>qr cmd edit column</s>
+    <s>qr cmd font color palette</s>
+    <s>qr cmd font dropdown</s>
+    <s>qr cmd format</s>
+    <s>qr cmd generate</s>
+    <s>qr cmd graph destination</s>
+    <s>qr cmd header and footer</s>
+    <s>qr cmd hide column</s>
+    <s>qr cmd hide line</s>
+    <s>qr cmd HTML file destination</s>
+    <s>qr cmd insert column</s>
+    <s>qr cmd italic</s>
+    <s>qr cmd left justified</s>
+    <s>qr cmd max</s>
+    <s>qr cmd min</s>
+    <s>qr cmd move left</s>
+    <s>qr cmd move right</s>
+    <s>qr cmd new</s>
+    <s>qr cmd open</s>
+    <s>qr cmd operators toolbar</s>
+    <s>qr cmd page setup</s>
+    <s>qr cmd plain</s>
+    <s>qr cmd presentation</s>
+    <s>qr cmd print preview</s>
+    <s>qr cmd printer destination</s>
+    <s>qr cmd repeated values</s>
+    <s>qr cmd revert to save</s>
+    <s>qr cmd right justified</s>
+    <s>qr cmd save</s>
+    <s>qr cmd save as</s>
+    <s>qr cmd standard deviation</s>
+    <s>qr cmd standard toolbar</s>
+    <s>qr cmd style toolbar</s>
+    <s>qr cmd sum</s>
+    <s>qr cmd totals spacing</s>
+    <s>qr cmd underline</s>
+    <s>qr count</s>
+    <s>qr cross report</s>
+    <s>qr detail</s>
+    <s>qr field separator</s>
+    <s>qr font name</s>
+    <s>qr font size</s>
+    <s>qr footer</s>
+    <s>qr grand total</s>
+    <s>qr header</s>
+    <s>qr HTML file</s>
+    <s>qr inside horizontal border</s>
+    <s>qr inside vertical border</s>
+    <s>qr italic</s>
+    <s>qr justification</s>
+    <s>qr left border</s>
+    <s>qr list report</s>
+    <s>qr max</s>
+    <s>qr min</s>
+    <s>qr no dialog</s>
+    <s>qr printer</s>
+    <s>qr printing dialog</s>
+    <s>qr record separator</s>
+    <s>qr right border</s>
+    <s>qr standard deviation</s>
+    <s>qr sum</s>
+    <s>qr text color</s>
+    <s>qr text file</s>
+    <s>qr title</s>
+    <s>qr top border</s>
+    <s>qr underline</s>
+    <s>qr unit</s>
+    <s>qr view contextual menus</s>
+    <s>Query by formula joins</s>
+    <s>Query by formula on server</s>
+    <s>Quote</s>
+    <s>Radian</s>
+    <s>Read and write</s>
+    <s>Read mode</s>
+    <s>Real array</s>
+    <s>Recent fonts</s>
+    <s>Recursive parsing</s>
+    <s>Red</s>
+    <s>Regular window</s>
+    <s>Remote connection sleep timeout</s>
+    <s>Renumber records</s>
+    <s>Repair log file</s>
+    <s>Replicated</s>
+    <s>Request log file</s>
+    <s>Required list</s>
+    <s>Reset</s>
+    <s>Resizable sheet window</s>
+    <s>Resize horizontal grow</s>
+    <s>Resize horizontal move</s>
+    <s>Resize horizontal none</s>
+    <s>Resize vertical grow</s>
+    <s>Resize vertical move</s>
+    <s>Resize vertical none</s>
+    <s>Restore process</s>
+    <s>ReturnKey</s>
+    <s>Right arrow key</s>
+    <s>Right control key bit</s>
+    <s>Right control key mask</s>
+    <s>Right option key bit</s>
+    <s>Right option key mask</s>
+    <s>Right shift key bit</s>
+    <s>Right shift key mask</s>
+    <s>Round corner window</s>
+    <s>RS ASCII code</s>
+    <s>Saturday</s>
+    <s>Scale</s>
+    <s>Scale option</s>
+    <s>Scaled to fit</s>
+    <s>Scaled to fit prop centered</s>
+    <s>Scaled to fit proportional</s>
+    <s>Screen size</s>
+    <s>Screen work area</s>
+    <s>September</s>
+    <s>Serial port manager</s>
+    <s>Server base process stack size</s>
+    <s>Server interface process</s>
+    <s>ServerNet Listener</s>
+    <s>ServerNet Session manager</s>
+    <s>Sessions only</s>
+    <s>SHA1 digest</s>
+    <s>SHA256 digest</s>
+    <s>SHA512 digest</s>
+    <s>Sheet form window</s>
+    <s>Sheet window</s>
+    <s>Shift key bit</s>
+    <s>Shift key mask</s>
+    <s>Short date day position</s>
+    <s>Short date month position</s>
+    <s>Short date year position</s>
+    <s>Shortcut with Backspace</s>
+    <s>Shortcut with Carriage Return</s>
+    <s>Shortcut with Delete</s>
+    <s>Shortcut with Down arrow</s>
+    <s>Shortcut with End</s>
+    <s>Shortcut with Enter</s>
+    <s>Shortcut with Escape</s>
+    <s>Shortcut with F1</s>
+    <s>Shortcut with F10</s>
+    <s>Shortcut with F11</s>
+    <s>Shortcut with F12</s>
+    <s>Shortcut with F13</s>
+    <s>Shortcut with F14</s>
+    <s>Shortcut with F15</s>
+    <s>Shortcut with F2</s>
+    <s>Shortcut with F3</s>
+    <s>Shortcut with F4</s>
+    <s>Shortcut with F5</s>
+    <s>Shortcut with F6</s>
+    <s>Shortcut with F7</s>
+    <s>Shortcut with F8</s>
+    <s>Shortcut with F9</s>
+    <s>Shortcut with Help</s>
+    <s>Shortcut with Home</s>
+    <s>Shortcut with Left arrow</s>
+    <s>Shortcut with Page down</s>
+    <s>Shortcut with Page up</s>
+    <s>Shortcut with Right arrow</s>
+    <s>Shortcut with Tabulation</s>
+    <s>Shortcut with Up arrow</s>
+    <s>SI ASCII code</s>
+    <s>Single selection</s>
+    <s>Sixteen colors</s>
+    <s>sk case insensitive</s>
+    <s>sk char codes</s>
+    <s>sk diacritic insensitive</s>
+    <s>sk ignore empty strings</s>
+    <s>sk kana insensitive</s>
+    <s>sk strict</s>
+    <s>sk trim spaces</s>
+    <s>sk whole word</s>
+    <s>sk width insensitive</s>
+    <s>SMTP authentication CRAM MD5</s>
+    <s>SMTP authentication login</s>
+    <s>SMTP authentication OAUTH2</s>
+    <s>SMTP authentication plain</s>
+    <s>SMTP Log</s>
+    <s>SMTP log file</s>
+    <s>SO ASCII code</s>
+    <s>SOAP client fault</s>
+    <s>SOAP input</s>
+    <s>SOAP method name</s>
+    <s>SOAP output</s>
+    <s>SOAP Process</s>
+    <s>SOAP server fault</s>
+    <s>SOAP service name</s>
+    <s>SOH ASCII code</s>
+    <s>SP ASCII code</s>
+    <s>Space</s>
+    <s>Spanish Peseta</s>
+    <s>Speed 115200</s>
+    <s>Speed 1200</s>
+    <s>Speed 1800</s>
+    <s>Speed 19200</s>
+    <s>Speed 230400</s>
+    <s>Speed 2400</s>
+    <s>Speed 300</s>
+    <s>Speed 3600</s>
+    <s>Speed 4800</s>
+    <s>Speed 57600</s>
+    <s>Speed 600</s>
+    <s>Speed 7200</s>
+    <s>Speed 9600</s>
+    <s>Spellchecker</s>
+    <s>Spooler document name option</s>
+    <s>SQL all records</s>
+    <s>SQL asynchronous</s>
+    <s>SQL autocommit</s>
+    <s>SQL charset</s>
+    <s>SQL connection timeout</s>
+    <s>SQL data chunk size</s>
+    <s>SQL engine case sensitivity</s>
+    <s>SQL Listener</s>
+    <s>SQL max data length</s>
+    <s>SQL max rows</s>
+    <s>SQL Method execution process</s>
+    <s>SQL Net Session manager</s>
+    <s>SQL On error abort</s>
+    <s>SQL On error confirm</s>
+    <s>SQL On error continue</s>
+    <s>SQL param in</s>
+    <s>SQL param in out</s>
+    <s>SQL param out</s>
+    <s>SQL param set size</s>
+    <s>SQL query timeout</s>
+    <s>SQL Server Port ID</s>
+    <s>SQL use access rights</s>
+    <s>SQL Worker pool server</s>
+    <s>SQL_INTERNAL</s>
+    <s>srl log all</s>
+    <s>srl log no response</s>
+    <s>srl log response without body</s>
+    <s>SSL cipher list</s>
+    <s>ST 4D Expressions as sources</s>
+    <s>ST 4D Expressions as values</s>
+    <s>ST End highlight</s>
+    <s>ST End text</s>
+    <s>ST Expression type</s>
+    <s>ST Expressions display mode</s>
+    <s>ST Mixed type</s>
+    <s>ST Picture type</s>
+    <s>ST Plain type</s>
+    <s>ST References</s>
+    <s>ST References as spaces</s>
+    <s>ST Start highlight</s>
+    <s>ST Start text</s>
+    <s>ST Tags as plain text</s>
+    <s>ST Tags as XML code</s>
+    <s>ST Text displayed with 4D Expression sources</s>
+    <s>ST Text displayed with 4D Expression values</s>
+    <s>ST Unknown tag type</s>
+    <s>ST URL as labels</s>
+    <s>ST URL as links</s>
+    <s>ST Url type</s>
+    <s>ST User links as labels</s>
+    <s>ST User links as links</s>
+    <s>ST User type</s>
+    <s>ST Values</s>
+    <s>Standard BTree index</s>
+    <s>Start a new process</s>
+    <s>Start menu Win_all</s>
+    <s>Start menu Win_user</s>
+    <s>Startup Win_all</s>
+    <s>Startup Win_user</s>
+    <s>Stop bits one</s>
+    <s>Stop bits one and a half</s>
+    <s>Stop bits two</s>
+    <s>Strict mode</s>
+    <s>String array</s>
+    <s>String type with time zone</s>
+    <s>String type without time zone</s>
+    <s>Structure configuration</s>
+    <s>Structure settings</s>
+    <s>STX ASCII code</s>
+    <s>SUB ASCII code</s>
+    <s>Sunday</s>
+    <s>Superimposition</s>
+    <s>SYN ASCII code</s>
+    <s>System</s>
+    <s>System data source</s>
+    <s>System date abbreviated</s>
+    <s>System date long</s>
+    <s>System date long pattern</s>
+    <s>System date medium pattern</s>
+    <s>System date short</s>
+    <s>System date short pattern</s>
+    <s>System fonts</s>
+    <s>System heap resource bit</s>
+    <s>System heap resource mask</s>
+    <s>SYSTEM ID</s>
+    <s>System time AM label</s>
+    <s>System time long</s>
+    <s>System time long abbreviated</s>
+    <s>System time long pattern</s>
+    <s>System time medium pattern</s>
+    <s>System time PM label</s>
+    <s>System time short</s>
+    <s>System time short pattern</s>
+    <s>System Win</s>
+    <s>System32 Win</s>
+    <s>Tab</s>
+    <s>Tab key</s>
+    <s>Table sequence number</s>
+    <s>TCP Authentication</s>
+    <s>TCP DNS</s>
+    <s>TCP Finger</s>
+    <s>TCP FTP Control</s>
+    <s>TCP FTP Data</s>
+    <s>TCP Gopher</s>
+    <s>TCP HTTP WWW</s>
+    <s>TCP IMAP3</s>
+    <s>TCP Kerberos</s>
+    <s>TCP KLogin</s>
+    <s>TCP Nickname</s>
+    <s>TCP NNTP</s>
+    <s>TCP NTalk</s>
+    <s>TCP NTP</s>
+    <s>TCP PMCP</s>
+    <s>TCP PMD</s>
+    <s>TCP POP3</s>
+    <s>TCP Printer</s>
+    <s>TCP RADACCT</s>
+    <s>TCP RADIUS</s>
+    <s>TCP Remote cmd</s>
+    <s>TCP Remote exec</s>
+    <s>TCP Remote login</s>
+    <s>TCP Router</s>
+    <s>TCP SMTP</s>
+    <s>TCP SNMP</s>
+    <s>TCP SNMPTRAP</s>
+    <s>TCP SUN RPC</s>
+    <s>TCP Talk</s>
+    <s>TCP Telnet</s>
+    <s>TCP TFTP</s>
+    <s>TCP UUCP</s>
+    <s>TCP UUCP RLOGIN</s>
+    <s>TCP_NODELAY</s>
+    <s>Text array</s>
+    <s>Text data</s>
+    <s>Text document</s>
+    <s>Texture appearance</s>
+    <s>Thousand separator</s>
+    <s>Thousands of colors</s>
+    <s>Thursday</s>
+    <s>TIFF Adobe deflate</s>
+    <s>TIFF artist</s>
+    <s>TIFF black is zero</s>
+    <s>TIFF CCIRLEW</s>
+    <s>TIFF CCITT1D</s>
+    <s>TIFF CIELab</s>
+    <s>TIFF CM</s>
+    <s>TIFF CMYK</s>
+    <s>TIFF color Filter Array</s>
+    <s>TIFF compression</s>
+    <s>TIFF copyright</s>
+    <s>TIFF date time</s>
+    <s>TIFF DCS</s>
+    <s>TIFF deflate</s>
+    <s>TIFF document name</s>
+    <s>TIFF Epson ERF</s>
+    <s>TIFF horizontal</s>
+    <s>TIFF host computer</s>
+    <s>TIFF ICCLab</s>
+    <s>TIFF image description</s>
+    <s>TIFF inches</s>
+    <s>TIFF IT8BL</s>
+    <s>TIFF IT8CTPAD</s>
+    <s>TIFF IT8LW</s>
+    <s>TIFF IT8MP</s>
+    <s>TIFF ITULab</s>
+    <s>TIFF JBIG</s>
+    <s>TIFF JBIG Black and White</s>
+    <s>TIFF JBIGColor</s>
+    <s>TIFF JPEG</s>
+    <s>TIFF JPEG2000</s>
+    <s>TIFF JPEGThumbs Only</s>
+    <s>TIFF Kodak DCR</s>
+    <s>TIFF Kodak KDC</s>
+    <s>TIFF Kodak262</s>
+    <s>TIFF linear Raw</s>
+    <s>TIFF LZW</s>
+    <s>TIFF make</s>
+    <s>TIFF MDIBinary level codec</s>
+    <s>TIFF MDIProgressive transform codec</s>
+    <s>TIFF MDIVector</s>
+    <s>TIFF mirror horizontal</s>
+    <s>TIFF mirror horizontal and rotate270cw</s>
+    <s>TIFF mirror horizontal and Rotate90cw</s>
+    <s>TIFF mirror vertical</s>
+    <s>TIFF MM</s>
+    <s>TIFF model</s>
+    <s>TIFF next</s>
+    <s>TIFF Nikon NEF</s>
+    <s>TIFF none</s>
+    <s>TIFF orientation</s>
+    <s>TIFF pack bits</s>
+    <s>TIFF Pentax PEF</s>
+    <s>TIFF photometric interpretation</s>
+    <s>TIFF Pixar film</s>
+    <s>TIFF Pixar log</s>
+    <s>TIFF Pixar log L</s>
+    <s>TIFF Pixar log Luv</s>
+    <s>TIFF resolution unit</s>
+    <s>TIFF RGB</s>
+    <s>TIFF RGBPalette</s>
+    <s>TIFF rotate180</s>
+    <s>TIFF rotate270CW</s>
+    <s>TIFF rotate90CW</s>
+    <s>TIFF SGILog</s>
+    <s>TIFF SGILog24</s>
+    <s>TIFF software</s>
+    <s>TIFF Sony ARW</s>
+    <s>TIFF T4Group3Fax</s>
+    <s>TIFF T6Group4Fax</s>
+    <s>TIFF Thunderscan</s>
+    <s>TIFF transparency mask</s>
+    <s>TIFF UM</s>
+    <s>TIFF uncompressed</s>
+    <s>TIFF white is zero</s>
+    <s>TIFF xResolution</s>
+    <s>TIFF YCb Cr</s>
+    <s>TIFF yResolution</s>
+    <s>Time array</s>
+    <s>Time separator</s>
+    <s>Times in milliseconds</s>
+    <s>Times in seconds</s>
+    <s>Times inside objects</s>
+    <s>Timestamp log file name</s>
+    <s>Tips delay</s>
+    <s>Tips duration</s>
+    <s>Tips enabled</s>
+    <s>TLSv1_2</s>
+    <s>TLSv1_3</s>
+    <s>Toolbar form window</s>
+    <s>Translate</s>
+    <s>Transparency</s>
+    <s>Truncated centered</s>
+    <s>Truncated non centered</s>
+    <s>Tuesday</s>
+    <s>Two fifty six colors</s>
+    <s>Underline</s>
+    <s>Unicode mode</s>
+    <s>Up arrow key</s>
+    <s>Update event</s>
+    <s>Update records</s>
+    <s>US ASCII code</s>
+    <s>Use AST interpreter</s>
+    <s>Use default folder</s>
+    <s>Use legacy Network Layer</s>
+    <s>Use PicRef</s>
+    <s>Use selected file</s>
+    <s>Use sheet window</s>
+    <s>Use structure definition</s>
+    <s>User data source</s>
+    <s>User param value</s>
+    <s>User preferences_all</s>
+    <s>User preferences_user</s>
+    <s>User settings</s>
+    <s>User settings file</s>
+    <s>User settings file for data</s>
+    <s>User settings for data file</s>
+    <s>User system localization</s>
+    <s>UTF8 C string</s>
+    <s>UTF8 text with length</s>
+    <s>UTF8 text without length</s>
+    <s>Verification log file</s>
+    <s>Verify all</s>
+    <s>Verify indexes</s>
+    <s>Verify records</s>
+    <s>Version</s>
+    <s>Vertical concatenation</s>
+    <s>Vertically centered</s>
+    <s>vss available</s>
+    <s>vss error</s>
+    <s>vss not available</s>
+    <s>vss update required</s>
+    <s>VT ASCII code</s>
+    <s>WA enable contextual menu</s>
+    <s>WA enable URL drop</s>
+    <s>WA enable Web inspector</s>
+    <s>WA next URLs</s>
+    <s>WA previous URLs</s>
+    <s>Waiting for input output</s>
+    <s>Waiting for internal flag</s>
+    <s>Waiting for user event</s>
+    <s>Warning message</s>
+    <s>wdl disable web log</s>
+    <s>wdl enable with all body parts</s>
+    <s>wdl enable with request body</s>
+    <s>wdl enable with response body</s>
+    <s>wdl enable without body</s>
+    <s>Web character set</s>
+    <s>Web Client IP address to listen</s>
+    <s>Web CORS enabled</s>
+    <s>Web CORS settings</s>
+    <s>Web debug log</s>
+    <s>Web HSTS enabled</s>
+    <s>Web HSTS max age</s>
+    <s>Web HTTP compression level</s>
+    <s>Web HTTP compression threshold</s>
+    <s>Web HTTP enabled</s>
+    <s>Web HTTP TRACE</s>
+    <s>Web HTTPS enabled</s>
+    <s>Web HTTPS port ID</s>
+    <s>Web inactive process timeout</s>
+    <s>Web inactive session timeout</s>
+    <s>Web IP address to listen</s>
+    <s>Web legacy session</s>
+    <s>Web log recording</s>
+    <s>Web max concurrent processes</s>
+    <s>Web max sessions</s>
+    <s>Web maximum requests size</s>
+    <s>Web Port ID</s>
+    <s>Web process on 4D remote</s>
+    <s>Web process with no context</s>
+    <s>Web SameSite Lax</s>
+    <s>Web SameSite None</s>
+    <s>Web SameSite Strict</s>
+    <s>Web scalable session</s>
+    <s>Web server database</s>
+    <s>Web server host database</s>
+    <s>Web server process</s>
+    <s>Web server receiving request</s>
+    <s>Web Service compression</s>
+    <s>Web Service detailed message</s>
+    <s>Web Service display auth dialog</s>
+    <s>Web Service dynamic</s>
+    <s>Web Service error code</s>
+    <s>Web Service fault actor</s>
+    <s>Web Service HTTP compression</s>
+    <s>Web Service HTTP status code</s>
+    <s>Web Service HTTP timeout</s>
+    <s>Web Service manual</s>
+    <s>Web Service manual in</s>
+    <s>Web Service manual out</s>
+    <s>Web Service reset auth settings</s>
+    <s>Web Service SOAP header</s>
+    <s>Web Service SOAP version</s>
+    <s>Web Service SOAP_1_1</s>
+    <s>Web Service SOAP_1_2</s>
+    <s>Web Session cookie domain</s>
+    <s>Web session cookie name</s>
+    <s>Web Session cookie path</s>
+    <s>Web Session IP address validation enabled</s>
+    <s>Wednesday</s>
+    <s>White</s>
+    <s>Windows</s>
+    <s>Windows MIDI document</s>
+    <s>Windows sound document</s>
+    <s>Windows video document</s>
+    <s>wk 4D Write Pro layout</s>
+    <s>wk 4wp</s>
+    <s>wk all insensitive</s>
+    <s>wk always</s>
+    <s>wk anchor all</s>
+    <s>wk anchor embedded</s>
+    <s>wk anchor first page</s>
+    <s>wk anchor horizontal align</s>
+    <s>wk anchor horizontal offset</s>
+    <s>wk anchor layout</s>
+    <s>wk anchor left page</s>
+    <s>wk anchor origin</s>
+    <s>wk anchor page</s>
+    <s>wk anchor right page</s>
+    <s>wk anchor section</s>
+    <s>wk anchor vertical align</s>
+    <s>wk anchor vertical offset</s>
+    <s>wk append</s>
+    <s>wk armenian</s>
+    <s>wk author</s>
+    <s>wk auto</s>
+    <s>wk avoid</s>
+    <s>wk avoid widows and orphans</s>
+    <s>wk background clip</s>
+    <s>wk background color</s>
+    <s>wk background display mode</s>
+    <s>wk background height</s>
+    <s>wk background image</s>
+    <s>wk background image url</s>
+    <s>wk background origin</s>
+    <s>wk background position horizontal</s>
+    <s>wk background position vertical</s>
+    <s>wk background repeat</s>
+    <s>wk background width</s>
+    <s>wk bar</s>
+    <s>wk baseline</s>
+    <s>wk behind text</s>
+    <s>wk body</s>
+    <s>wk border box</s>
+    <s>wk border color</s>
+    <s>wk border color bottom</s>
+    <s>wk border color left</s>
+    <s>wk border color right</s>
+    <s>wk border color top</s>
+    <s>wk border radius</s>
+    <s>wk border style</s>
+    <s>wk border style bottom</s>
+    <s>wk border style left</s>
+    <s>wk border style right</s>
+    <s>wk border style top</s>
+    <s>wk border width</s>
+    <s>wk border width bottom</s>
+    <s>wk border width left</s>
+    <s>wk border width right</s>
+    <s>wk border width top</s>
+    <s>wk bottom</s>
+    <s>wk bottom carry over row</s>
+    <s>wk break formula</s>
+    <s>wk break paragraphs in formulas</s>
+    <s>wk break type</s>
+    <s>wk capitalize</s>
+    <s>wk case insensitive</s>
+    <s>wk cell count</s>
+    <s>wk cell range</s>
+    <s>wk center</s>
+    <s>wk CID host domain name</s>
+    <s>wk circle</s>
+    <s>wk cjk ideographic</s>
+    <s>wk club</s>
+    <s>wk column break</s>
+    <s>wk column count</s>
+    <s>wk column range</s>
+    <s>wk column rule color</s>
+    <s>wk column rule style</s>
+    <s>wk column rule width</s>
+    <s>wk column spacing</s>
+    <s>wk column width</s>
+    <s>wk comma</s>
+    <s>wk company</s>
+    <s>wk contain</s>
+    <s>wk container</s>
+    <s>wk content box</s>
+    <s>wk continuous section break</s>
+    <s>wk cover</s>
+    <s>wk current page footer</s>
+    <s>wk current page header</s>
+    <s>wk current section default footer</s>
+    <s>wk current section default header</s>
+    <s>wk current section first footer</s>
+    <s>wk current section first header</s>
+    <s>wk current section left footer</s>
+    <s>wk current section left header</s>
+    <s>wk current section right footer</s>
+    <s>wk current section right header</s>
+    <s>wk custom</s>
+    <s>wk dashed</s>
+    <s>wk datasource</s>
+    <s>wk date creation</s>
+    <s>wk date modified</s>
+    <s>wk debug format</s>
+    <s>wk decimal</s>
+    <s>wk decimal greek</s>
+    <s>wk decimal leading zero</s>
+    <s>wk default</s>
+    <s>wk default paragraph stylesheet</s>
+    <s>wk diacritic insensitive</s>
+    <s>wk diamond</s>
+    <s>wk direction</s>
+    <s>wk disc</s>
+    <s>wk display formula as symbol</s>
+    <s>wk do not recompute expressions</s>
+    <s>wk docx</s>
+    <s>wk dotted</s>
+    <s>wk double</s>
+    <s>wk dpi</s>
+    <s>wk embedded pictures</s>
+    <s>wk end</s>
+    <s>wk end text</s>
+    <s>wk exclude from range</s>
+    <s>wk expressions as source</s>
+    <s>wk expressions as space</s>
+    <s>wk expressions as value</s>
+    <s>wk false</s>
+    <s>wk find reverse</s>
+    <s>wk first column</s>
+    <s>wk first page</s>
+    <s>wk first row</s>
+    <s>wk font</s>
+    <s>wk font bold</s>
+    <s>wk font default</s>
+    <s>wk font family</s>
+    <s>wk font italic</s>
+    <s>wk font size</s>
+    <s>wk footer box</s>
+    <s>wk formula highlight</s>
+    <s>wk formula highlight color</s>
+    <s>wk freeze expressions</s>
+    <s>wk georgian</s>
+    <s>wk google fonts tag</s>
+    <s>wk groove</s>
+    <s>wk header</s>
+    <s>wk header and footer autofit</s>
+    <s>wk header box</s>
+    <s>wk header row count</s>
+    <s>wk header rows</s>
+    <s>wk hebrew</s>
+    <s>wk height</s>
+    <s>wk hidden</s>
+    <s>wk hiragana</s>
+    <s>wk hollow square</s>
+    <s>wk HTML pretty print</s>
+    <s>wk html wysiwyg</s>
+    <s>wk id</s>
+    <s>wk image</s>
+    <s>wk image alternate text</s>
+    <s>wk image display mode</s>
+    <s>wk image expression</s>
+    <s>wk image formula</s>
+    <s>wk image url</s>
+    <s>wk import html expressions as text</s>
+    <s>wk import log</s>
+    <s>wk in front of text</s>
+    <s>wk include in range</s>
+    <s>wk inherit style from paragraph</s>
+    <s>wk inline with text</s>
+    <s>wk inset</s>
+    <s>wk inside</s>
+    <s>wk justify</s>
+    <s>wk kana insensitive</s>
+    <s>wk katakana</s>
+    <s>wk keep character style</s>
+    <s>wk keep paragraph styles</s>
+    <s>wk keep with next</s>
+    <s>wk landscape</s>
+    <s>wk layout unit</s>
+    <s>wk leading</s>
+    <s>wk left</s>
+    <s>wk left page</s>
+    <s>wk left to right</s>
+    <s>wk line break</s>
+    <s>wk line height</s>
+    <s>wk link url</s>
+    <s>wk list auto</s>
+    <s>wk list font</s>
+    <s>wk list start number</s>
+    <s>wk list string format LTR</s>
+    <s>wk list string format RTL</s>
+    <s>wk list style image</s>
+    <s>wk list style image height</s>
+    <s>wk list style image url</s>
+    <s>wk list style type</s>
+    <s>wk lower greek</s>
+    <s>wk lower latin</s>
+    <s>wk lower roman</s>
+    <s>wk lowercase</s>
+    <s>wk margin</s>
+    <s>wk margin bottom</s>
+    <s>wk margin left</s>
+    <s>wk margin right</s>
+    <s>wk margin top</s>
+    <s>wk max picture DPI</s>
+    <s>wk middle</s>
+    <s>wk mime html</s>
+    <s>wk min height</s>
+    <s>wk min width</s>
+    <s>wk mixed</s>
+    <s>wk modified</s>
+    <s>wk never</s>
+    <s>wk new line style sheet</s>
+    <s>wk no repeat</s>
+    <s>wk none</s>
+    <s>wk normal</s>
+    <s>wk notes</s>
+    <s>wk offset</s>
+    <s>wk optimized for</s>
+    <s>wk outset</s>
+    <s>wk outside</s>
+    <s>wk override protected</s>
+    <s>wk owner</s>
+    <s>wk padding</s>
+    <s>wk padding bottom</s>
+    <s>wk padding box</s>
+    <s>wk padding left</s>
+    <s>wk padding right</s>
+    <s>wk padding top</s>
+    <s>wk page break</s>
+    <s>wk page break inside paragraph</s>
+    <s>wk page break inside row</s>
+    <s>wk page break inside table</s>
+    <s>wk page first number</s>
+    <s>wk page first right</s>
+    <s>wk page height</s>
+    <s>wk page index</s>
+    <s>wk page margin</s>
+    <s>wk page margin bottom</s>
+    <s>wk page margin left</s>
+    <s>wk page margin right</s>
+    <s>wk page margin top</s>
+    <s>wk page orientation</s>
+    <s>wk page size</s>
+    <s>wk page view mode</s>
+    <s>wk page width</s>
+    <s>wk paper box</s>
+    <s>wk paragraph break</s>
+    <s>wk parent</s>
+    <s>wk pdf</s>
+    <s>wk point</s>
+    <s>wk point or comma</s>
+    <s>wk portrait</s>
+    <s>wk prepend</s>
+    <s>wk print</s>
+    <s>wk proportional</s>
+    <s>wk proportional centered</s>
+    <s>wk protected</s>
+    <s>wk protection enabled</s>
+    <s>wk recompute expressions</s>
+    <s>wk recompute formulas</s>
+    <s>wk references</s>
+    <s>wk repeat</s>
+    <s>wk repeat x</s>
+    <s>wk repeat y</s>
+    <s>wk replace</s>
+    <s>wk replicated</s>
+    <s>wk replicated centered</s>
+    <s>wk resolution</s>
+    <s>wk ridge</s>
+    <s>wk right</s>
+    <s>wk right page</s>
+    <s>wk right to left</s>
+    <s>wk row count</s>
+    <s>wk row range</s>
+    <s>wk scaled to fit</s>
+    <s>wk screen</s>
+    <s>wk section break</s>
+    <s>wk section index</s>
+    <s>wk section name</s>
+    <s>wk semi transparent</s>
+    <s>wk shift down</s>
+    <s>wk shift left</s>
+    <s>wk shift right</s>
+    <s>wk shift up</s>
+    <s>wk small uppercase</s>
+    <s>wk solid</s>
+    <s>wk spell enable</s>
+    <s>wk square</s>
+    <s>wk start</s>
+    <s>wk start text</s>
+    <s>wk style sheet</s>
+    <s>wk subject</s>
+    <s>wk subscript</s>
+    <s>wk superscript</s>
+    <s>wk svg</s>
+    <s>wk system</s>
+    <s>wk tab decimal separator</s>
+    <s>wk tab default</s>
+    <s>wk tab stop leadings</s>
+    <s>wk tab stop offsets</s>
+    <s>wk tab stop types</s>
+    <s>wk table</s>
+    <s>wk table align</s>
+    <s>wk table ID</s>
+    <s>wk tabs</s>
+    <s>wk text align</s>
+    <s>wk text box</s>
+    <s>wk text color</s>
+    <s>wk text indent</s>
+    <s>wk text linethrough color</s>
+    <s>wk text linethrough style</s>
+    <s>wk text shadow color</s>
+    <s>wk text shadow offset</s>
+    <s>wk text transform</s>
+    <s>wk text underline color</s>
+    <s>wk text underline style</s>
+    <s>wk title</s>
+    <s>wk top</s>
+    <s>wk transparent</s>
+    <s>wk true</s>
+    <s>wk truncated</s>
+    <s>wk truncated centered</s>
+    <s>wk type</s>
+    <s>wk type body</s>
+    <s>wk type character</s>
+    <s>wk type container</s>
+    <s>wk type default</s>
+    <s>wk type image</s>
+    <s>wk type image anchored</s>
+    <s>wk type image inline</s>
+    <s>wk type paragraph</s>
+    <s>wk type table</s>
+    <s>wk type table cell</s>
+    <s>wk type table column</s>
+    <s>wk type table row</s>
+    <s>wk type text box</s>
+    <s>wk unit cm</s>
+    <s>wk unit inch</s>
+    <s>wk unit mm</s>
+    <s>wk unit percent</s>
+    <s>wk unit pt</s>
+    <s>wk unit px</s>
+    <s>wk upper latin</s>
+    <s>wk upper roman</s>
+    <s>wk uppercase</s>
+    <s>wk use keyboard language</s>
+    <s>wk value unit not percentage</s>
+    <s>wk value unit percentage</s>
+    <s>wk values</s>
+    <s>wk version</s>
+    <s>wk vertical align</s>
+    <s>wk visible background and anchored elements</s>
+    <s>wk visible empty images</s>
+    <s>wk visible footers</s>
+    <s>wk visible headers</s>
+    <s>wk visible hidden characters</s>
+    <s>wk visible horizontal ruler</s>
+    <s>wk visible HTML WYSIWYG</s>
+    <s>wk visible page frames</s>
+    <s>wk visible references</s>
+    <s>wk visible vertical ruler</s>
+    <s>wk web page complete</s>
+    <s>wk web page html 4D</s>
+    <s>wk whole word</s>
+    <s>wk width</s>
+    <s>wk width insensitive</s>
+    <s>wk word</s>
+    <s>wk zoom</s>
+    <s>Worker pool in use</s>
+    <s>Worker pool spare</s>
+    <s>Worker process</s>
+    <s>Write mode</s>
+    <s>XML base64</s>
+    <s>XML binary encoding</s>
+    <s>XML BOM</s>
+    <s>XML case insensitive</s>
+    <s>XML case sensitive</s>
+    <s>XML CDATA</s>
+    <s>XML comment</s>
+    <s>XML convert to PNG</s>
+    <s>XML CR</s>
+    <s>XML CRLF</s>
+    <s>XML DATA</s>
+    <s>XML data URI scheme</s>
+    <s>XML date encoding</s>
+    <s>XML datetime local</s>
+    <s>XML datetime local absolute</s>
+    <s>XML datetime UTC</s>
+    <s>XML default</s>
+    <s>XML disabled</s>
+    <s>XML DOCTYPE</s>
+    <s>XML DOM case sensitivity</s>
+    <s>XML duration</s>
+    <s>XML ELEMENT</s>
+    <s>XML enabled</s>
+    <s>XML end document</s>
+    <s>XML end element</s>
+    <s>XML entity</s>
+    <s>XML external entity resolution</s>
+    <s>XML indentation</s>
+    <s>XML ISO</s>
+    <s>XML LF</s>
+    <s>XML line ending</s>
+    <s>XML local</s>
+    <s>XML native codec</s>
+    <s>XML no indentation</s>
+    <s>XML picture encoding</s>
+    <s>XML processing instruction</s>
+    <s>XML raw data</s>
+    <s>XML seconds</s>
+    <s>XML start document</s>
+    <s>XML start element</s>
+    <s>XML String encoding</s>
+    <s>XML time encoding</s>
+    <s>XML UTC</s>
+    <s>XML with escaping</s>
+    <s>XML with indentation</s>
+    <s>XY Current form</s>
+    <s>XY Current window</s>
+    <s>XY Main window</s>
+    <s>XY Screen</s>
+    <s>Yellow</s>
+    <s>ZIP Compression LZMA</s>
+    <s>ZIP Compression none</s>
+    <s>ZIP Compression standard</s>
+    <s>ZIP Compression XZ</s>
+    <s>ZIP Encryption AES128</s>
+    <s>ZIP Encryption AES192</s>
+    <s>ZIP Encryption AES256</s>
+    <s>ZIP Encryption none</s>
+    <s>ZIP Ignore invisible files</s>
+    <s>ZIP Without enclosing folder</s>
+  </k>
+  <k id="Keywords">
+    <s>:</s>
+    <s>break</s>
+    <s>Case of</s>
+    <s>continue</s>
+    <s>Else</s>
+    <s>End case</s>
+    <s>End for</s>
+    <s>End for each</s>
+    <s>End if</s>
+    <s>End use</s>
+    <s>End while</s>
+    <s>For</s>
+    <s>For each</s>
+    <s>If</s>
+    <s>Repeat</s>
+    <s>return</s>
+    <s>Until</s>
+    <s>Use</s>
+    <s>While</s>
+  </k>
+  <k id="Commands">
+    <s>4D</s>
+    <s>_o_ADD SUBRECORD</s>
+    <s>_o_ALL SUBRECORDS</s>
+    <s>_o_APPLY TO SUBSELECTION</s>
+    <s>_o_ARRAY STRING</s>
+    <s>_o_Before subselection</s>
+    <s>_o_C_GRAPH</s>
+    <s>_o_C_INTEGER</s>
+    <s>_o_C_STRING</s>
+    <s>_o_CREATE SUBRECORD</s>
+    <s>_o_CREATE USER FORM</s>
+    <s>_o_DATA SEGMENT LIST</s>
+    <s>_o_DELETE SUBRECORD</s>
+    <s>_o_DELETE USER FORM</s>
+    <s>_o_Document creator</s>
+    <s>_o_Document type</s>
+    <s>_o_DRAG AND DROP PROPERTIES</s>
+    <s>_o_During</s>
+    <s>_o_EDIT FORM</s>
+    <s>_o_End subselection</s>
+    <s>_o_EXPORT ODBC</s>
+    <s>_o_FIRST SUBRECORD</s>
+    <s>_o_Font name</s>
+    <s>_o_FORM GET PARAMETER</s>
+    <s>_o_Gestalt</s>
+    <s>_o_IMPORT ODBC</s>
+    <s>_o_INTEGRATE LOG FILE</s>
+    <s>_o_LAST SUBRECORD</s>
+    <s>_o_LIST USER FORMS</s>
+    <s>_o_Mac to Win</s>
+    <s>_o_MAP FILE TYPES</s>
+    <s>_o_MOBILE Return selection</s>
+    <s>_o_MODIFY SUBRECORD</s>
+    <s>_o_NEXT SUBRECORD</s>
+    <s>_o_OBJECT Get action</s>
+    <s>_o_OBJECT SET COLOR</s>
+    <s>_o_ORDER SUBRECORDS BY</s>
+    <s>_o_PAGE SETUP</s>
+    <s>_o_PICTURE TO GIF</s>
+    <s>_o_PLATFORM PROPERTIES</s>
+    <s>_o_PREVIOUS SUBRECORD</s>
+    <s>_o_QUERY SUBRECORDS</s>
+    <s>_o_Records in subselection</s>
+    <s>_o_REDRAW LIST</s>
+    <s>_o_SET DOCUMENT CREATOR</s>
+    <s>_o_SET DOCUMENT TYPE</s>
+    <s>_o_USE EXTERNAL DATABASE</s>
+    <s>_o_USE INTERNAL DATABASE</s>
+    <s>_O_WEB Get session process count</s>
+    <s>_o_Win to Mac</s>
+    <s>ABORT</s>
+    <s>ABORT PROCESS BY ID</s>
+    <s>Abs</s>
+    <s>ACCEPT</s>
+    <s>ACCUMULATE</s>
+    <s>Activated</s>
+    <s>Active transaction</s>
+    <s>ADD RECORD</s>
+    <s>Add to date</s>
+    <s>ADD TO SET</s>
+    <s>ADJUST BLOBS CACHE PRIORITY</s>
+    <s>ADJUST INDEX CACHE PRIORITY</s>
+    <s>ADJUST TABLE CACHE PRIORITY</s>
+    <s>After</s>
+    <s>ALERT</s>
+    <s>ALL RECORDS</s>
+    <s>APPEND DATA TO PASTEBOARD</s>
+    <s>Append document</s>
+    <s>APPEND MENU ITEM</s>
+    <s>APPEND TO ARRAY</s>
+    <s>APPEND TO LIST</s>
+    <s>Application file</s>
+    <s>Application type</s>
+    <s>Application version</s>
+    <s>APPLY TO SELECTION</s>
+    <s>Arctan</s>
+    <s>ARRAY TO COLLECTION</s>
+    <s>ARRAY TO LIST</s>
+    <s>ARRAY TO SELECTION</s>
+    <s>ASSERT</s>
+    <s>Asserted</s>
+    <s>Average</s>
+    <s>BACKUP</s>
+    <s>BASE64 DECODE</s>
+    <s>BASE64 ENCODE</s>
+    <s>BEEP</s>
+    <s>Before</s>
+    <s>Before selection</s>
+    <s>Begin SQL</s>
+    <s>BLOB PROPERTIES</s>
+    <s>BLOB size</s>
+    <s>BLOB TO DOCUMENT</s>
+    <s>BLOB to integer</s>
+    <s>BLOB to list</s>
+    <s>BLOB to longint</s>
+    <s>BLOB TO PICTURE</s>
+    <s>BLOB to print settings</s>
+    <s>BLOB to real</s>
+    <s>BLOB to text</s>
+    <s>BLOB TO USERS</s>
+    <s>BLOB TO VARIABLE</s>
+    <s>Bool</s>
+    <s>BOOLEAN ARRAY FROM SET</s>
+    <s>BREAK LEVEL</s>
+    <s>BRING TO FRONT</s>
+    <s>BUILD APPLICATION</s>
+    <s>Cache info</s>
+    <s>CALL FORM</s>
+    <s>CALL SUBFORM CONTAINER</s>
+    <s>CALL WORKER</s>
+    <s>CANCEL</s>
+    <s>CANCEL TRANSACTION</s>
+    <s>Caps lock down</s>
+    <s>CHANGE CURRENT USER</s>
+    <s>CHANGE LICENSES</s>
+    <s>CHANGE PASSWORD</s>
+    <s>Change string</s>
+    <s>Char</s>
+    <s>Character code</s>
+    <s>CHECK LOG FILE</s>
+    <s>Choose</s>
+    <s>CLEAR LIST</s>
+    <s>CLEAR NAMED SELECTION</s>
+    <s>CLEAR PASTEBOARD</s>
+    <s>CLEAR SEMAPHORE</s>
+    <s>CLEAR SET</s>
+    <s>CLEAR VARIABLE</s>
+    <s>Clickcount</s>
+    <s>CLOSE DOCUMENT</s>
+    <s>CLOSE PRINTING JOB</s>
+    <s>CLOSE RESOURCE FILE</s>
+    <s>CLOSE WINDOW</s>
+    <s>COLLECTION TO ARRAY</s>
+    <s>COMBINE PICTURES</s>
+    <s>Command name</s>
+    <s>Compact data file</s>
+    <s>Compare strings</s>
+    <s>Compile project</s>
+    <s>COMPONENT LIST</s>
+    <s>COMPRESS BLOB</s>
+    <s>CONFIRM</s>
+    <s>Contextual click</s>
+    <s>CONVERT COORDINATES</s>
+    <s>CONVERT FROM TEXT</s>
+    <s>Convert path POSIX to system</s>
+    <s>Convert path system to POSIX</s>
+    <s>CONVERT PICTURE</s>
+    <s>Convert to text</s>
+    <s>COPY ARRAY</s>
+    <s>COPY BLOB</s>
+    <s>COPY DOCUMENT</s>
+    <s>Copy list</s>
+    <s>COPY NAMED SELECTION</s>
+    <s>Copy parameters</s>
+    <s>COPY SET</s>
+    <s>Cos</s>
+    <s>Count in array</s>
+    <s>Count list items</s>
+    <s>Count menu items</s>
+    <s>Count menus</s>
+    <s>Count parameters</s>
+    <s>Count screens</s>
+    <s>Count tasks</s>
+    <s>Count user processes</s>
+    <s>Count users</s>
+    <s>CREATE ALIAS</s>
+    <s>CREATE DATA FILE</s>
+    <s>Create document</s>
+    <s>CREATE EMPTY SET</s>
+    <s>Create entity selection</s>
+    <s>CREATE FOLDER</s>
+    <s>CREATE INDEX</s>
+    <s>Create menu</s>
+    <s>CREATE RECORD</s>
+    <s>CREATE RELATED ONE</s>
+    <s>CREATE SELECTION FROM ARRAY</s>
+    <s>CREATE SET</s>
+    <s>CREATE SET FROM ARRAY</s>
+    <s>CREATE THUMBNAIL</s>
+    <s>cs</s>
+    <s>Current client authentication</s>
+    <s>Current date</s>
+    <s>Current default table</s>
+    <s>Current form name</s>
+    <s>Current form table</s>
+    <s>Current form window</s>
+    <s>Current machine</s>
+    <s>Current method name</s>
+    <s>Current method path</s>
+    <s>Current process</s>
+    <s>Current process name</s>
+    <s>Current system user</s>
+    <s>Current time</s>
+    <s>Current user</s>
+    <s>CUT NAMED SELECTION</s>
+    <s>Data file</s>
+    <s>Data file encryption status</s>
+    <s>Date</s>
+    <s>Day number</s>
+    <s>Day of</s>
+    <s>Deactivated</s>
+    <s>Dec</s>
+    <s>DECRYPT BLOB</s>
+    <s>Decrypt data BLOB</s>
+    <s>DEFAULT TABLE</s>
+    <s>DELAY PROCESS</s>
+    <s>DELETE DOCUMENT</s>
+    <s>DELETE FOLDER</s>
+    <s>DELETE FROM ARRAY</s>
+    <s>DELETE FROM BLOB</s>
+    <s>DELETE FROM LIST</s>
+    <s>DELETE INDEX</s>
+    <s>DELETE MENU ITEM</s>
+    <s>DELETE RECORD</s>
+    <s>DELETE SELECTION</s>
+    <s>Delete string</s>
+    <s>DELETE USER</s>
+    <s>DESCRIBE QUERY EXECUTION</s>
+    <s>DIALOG</s>
+    <s>DIFFERENCE</s>
+    <s>DISABLE MENU ITEM</s>
+    <s>Discover data key</s>
+    <s>DISPLAY NOTIFICATION</s>
+    <s>DISPLAY RECORD</s>
+    <s>DISPLAY SELECTION</s>
+    <s>Displayed line number</s>
+    <s>DISTINCT ATTRIBUTE PATHS</s>
+    <s>DISTINCT ATTRIBUTE VALUES</s>
+    <s>DISTINCT VALUES</s>
+    <s>DOCUMENT LIST</s>
+    <s>DOCUMENT TO BLOB</s>
+    <s>Document to text</s>
+    <s>DOM Append XML child node</s>
+    <s>DOM Append XML element</s>
+    <s>DOM CLOSE XML</s>
+    <s>DOM Count XML attributes</s>
+    <s>DOM Count XML elements</s>
+    <s>DOM Create XML element</s>
+    <s>DOM Create XML element arrays</s>
+    <s>DOM Create XML Ref</s>
+    <s>DOM EXPORT TO FILE</s>
+    <s>DOM EXPORT TO VAR</s>
+    <s>DOM Find XML element</s>
+    <s>DOM Find XML element by ID</s>
+    <s>DOM Get first child XML element</s>
+    <s>DOM Get last child XML element</s>
+    <s>DOM Get next sibling XML element</s>
+    <s>DOM Get parent XML element</s>
+    <s>DOM Get previous sibling XML element</s>
+    <s>DOM Get Root XML element</s>
+    <s>DOM GET XML ATTRIBUTE BY INDEX</s>
+    <s>DOM GET XML ATTRIBUTE BY NAME</s>
+    <s>DOM GET XML CHILD NODES</s>
+    <s>DOM Get XML document ref</s>
+    <s>DOM Get XML element</s>
+    <s>DOM GET XML ELEMENT NAME</s>
+    <s>DOM GET XML ELEMENT VALUE</s>
+    <s>DOM Get XML information</s>
+    <s>DOM Insert XML element</s>
+    <s>DOM Parse XML source</s>
+    <s>DOM Parse XML variable</s>
+    <s>DOM REMOVE XML ATTRIBUTE</s>
+    <s>DOM REMOVE XML ELEMENT</s>
+    <s>DOM SET XML ATTRIBUTE</s>
+    <s>DOM SET XML DECLARATION</s>
+    <s>DOM SET XML ELEMENT NAME</s>
+    <s>DOM SET XML ELEMENT VALUE</s>
+    <s>DRAG WINDOW</s>
+    <s>Drop position</s>
+    <s>DROP REMOTE USER</s>
+    <s>ds</s>
+    <s>DUPLICATE RECORD</s>
+    <s>Dynamic pop up menu</s>
+    <s>EDIT ACCESS</s>
+    <s>EDIT FORMULA</s>
+    <s>EDIT ITEM</s>
+    <s>ENABLE MENU ITEM</s>
+    <s>ENCRYPT BLOB</s>
+    <s>Encrypt data BLOB</s>
+    <s>Encrypt data file</s>
+    <s>End selection</s>
+    <s>End SQL</s>
+    <s>Equal pictures</s>
+    <s>ERASE WINDOW</s>
+    <s>Euro converter</s>
+    <s>EXECUTE FORMULA</s>
+    <s>EXECUTE METHOD</s>
+    <s>EXECUTE METHOD IN SUBFORM</s>
+    <s>EXECUTE ON CLIENT</s>
+    <s>Execute on server</s>
+    <s>Exp</s>
+    <s>EXPAND BLOB</s>
+    <s>EXPORT DATA</s>
+    <s>EXPORT DIF</s>
+    <s>EXPORT STRUCTURE</s>
+    <s>Export structure file</s>
+    <s>EXPORT SYLK</s>
+    <s>EXPORT TEXT</s>
+    <s>False</s>
+    <s>Field</s>
+    <s>Field name</s>
+    <s>File</s>
+    <s>FILTER EVENT</s>
+    <s>FILTER KEYSTROKE</s>
+    <s>Find in array</s>
+    <s>Find in field</s>
+    <s>Find in list</s>
+    <s>Find in sorted array</s>
+    <s>Find window</s>
+    <s>FIRST RECORD</s>
+    <s>FLUSH CACHE</s>
+    <s>Focus object</s>
+    <s>Folder</s>
+    <s>FOLDER LIST</s>
+    <s>Font file</s>
+    <s>FONT LIST</s>
+    <s>FONT STYLE LIST</s>
+    <s>Form</s>
+    <s>FORM Convert to dynamic</s>
+    <s>FORM EDIT</s>
+    <s>FORM Event</s>
+    <s>Form event code</s>
+    <s>FORM FIRST PAGE</s>
+    <s>FORM Get color scheme</s>
+    <s>FORM Get current page</s>
+    <s>FORM GET ENTRY ORDER</s>
+    <s>FORM GET HORIZONTAL RESIZING</s>
+    <s>FORM GET NAMES</s>
+    <s>FORM GET OBJECTS</s>
+    <s>FORM GET PROPERTIES</s>
+    <s>FORM GET VERTICAL RESIZING</s>
+    <s>FORM GOTO PAGE</s>
+    <s>FORM LAST PAGE</s>
+    <s>FORM LOAD</s>
+    <s>FORM NEXT PAGE</s>
+    <s>FORM PREVIOUS PAGE</s>
+    <s>FORM SCREENSHOT</s>
+    <s>FORM SET ENTRY ORDER</s>
+    <s>FORM SET HORIZONTAL RESIZING</s>
+    <s>FORM SET INPUT</s>
+    <s>FORM SET OUTPUT</s>
+    <s>FORM SET SIZE</s>
+    <s>FORM SET VERTICAL RESIZING</s>
+    <s>FORM UNLOAD</s>
+    <s>Formula</s>
+    <s>formula</s>
+    <s>Formula from string</s>
+    <s>Frontmost process</s>
+    <s>Frontmost window</s>
+    <s>GENERATE CERTIFICATE REQUEST</s>
+    <s>Generate digest</s>
+    <s>GENERATE ENCRYPTION KEYPAIR</s>
+    <s>Generate password hash</s>
+    <s>Generate UUID</s>
+    <s>Get 4D file</s>
+    <s>Get 4D folder</s>
+    <s>Get action info</s>
+    <s>GET ACTIVITY SNAPSHOT</s>
+    <s>Get adjusted blobs cache priority</s>
+    <s>Get adjusted index cache priority</s>
+    <s>Get adjusted table cache priority</s>
+    <s>GET ALLOWED METHODS</s>
+    <s>Get application color scheme</s>
+    <s>Get application info</s>
+    <s>Get assert enabled</s>
+    <s>GET AUTOMATIC RELATIONS</s>
+    <s>GET BACKUP INFORMATION</s>
+    <s>Get cache size</s>
+    <s>Get call chain</s>
+    <s>Get current printer</s>
+    <s>Get database localization</s>
+    <s>Get database measures</s>
+    <s>Get database parameter</s>
+    <s>Get default user</s>
+    <s>GET DOCUMENT ICON</s>
+    <s>Get document position</s>
+    <s>GET DOCUMENT PROPERTIES</s>
+    <s>Get document size</s>
+    <s>Get edited text</s>
+    <s>Get external data path</s>
+    <s>GET FIELD ENTRY PROPERTIES</s>
+    <s>GET FIELD PROPERTIES</s>
+    <s>GET FIELD RELATION</s>
+    <s>GET FIELD TITLES</s>
+    <s>Get file from pasteboard</s>
+    <s>Get group access</s>
+    <s>GET GROUP LIST</s>
+    <s>GET GROUP PROPERTIES</s>
+    <s>GET HIGHLIGHT</s>
+    <s>GET HIGHLIGHTED RECORDS</s>
+    <s>Get indexed string</s>
+    <s>GET LAST ERROR STACK</s>
+    <s>Get last field number</s>
+    <s>Get last query path</s>
+    <s>Get last query plan</s>
+    <s>Get last table number</s>
+    <s>Get last update log path</s>
+    <s>Get license info</s>
+    <s>Get license usage</s>
+    <s>GET LIST ITEM</s>
+    <s>Get list item font</s>
+    <s>GET LIST ITEM ICON</s>
+    <s>GET LIST ITEM PARAMETER</s>
+    <s>GET LIST ITEM PARAMETER ARRAYS</s>
+    <s>GET LIST ITEM PROPERTIES</s>
+    <s>GET LIST PROPERTIES</s>
+    <s>Get localized document path</s>
+    <s>Get localized string</s>
+    <s>Get locked records info</s>
+    <s>GET MACRO PARAMETER</s>
+    <s>GET MEMORY STATISTICS</s>
+    <s>Get menu bar reference</s>
+    <s>Get menu item</s>
+    <s>GET MENU ITEM ICON</s>
+    <s>Get menu item key</s>
+    <s>Get menu item mark</s>
+    <s>Get menu item method</s>
+    <s>Get menu item modifiers</s>
+    <s>Get menu item parameter</s>
+    <s>GET MENU ITEM PROPERTY</s>
+    <s>Get menu item style</s>
+    <s>GET MENU ITEMS</s>
+    <s>Get menu title</s>
+    <s>GET MISSING TABLE NAMES</s>
+    <s>Get Monitored Activity</s>
+    <s>GET MOUSE</s>
+    <s>GET PASTEBOARD DATA</s>
+    <s>GET PASTEBOARD DATA TYPE</s>
+    <s>Get picture file name</s>
+    <s>GET PICTURE FORMATS</s>
+    <s>GET PICTURE FROM LIBRARY</s>
+    <s>GET PICTURE FROM PASTEBOARD</s>
+    <s>GET PICTURE KEYWORDS</s>
+    <s>GET PICTURE METADATA</s>
+    <s>GET PICTURE RESOURCE</s>
+    <s>Get plugin access</s>
+    <s>Get pointer</s>
+    <s>Get print marker</s>
+    <s>GET PRINT OPTION</s>
+    <s>Get print preview</s>
+    <s>GET PRINTABLE AREA</s>
+    <s>GET PRINTABLE MARGIN</s>
+    <s>Get printed height</s>
+    <s>Get process activity</s>
+    <s>GET PROCESS VARIABLE</s>
+    <s>GET QUERY DESTINATION</s>
+    <s>Get query limit</s>
+    <s>GET REGISTERED CLIENTS</s>
+    <s>GET RELATION PROPERTIES</s>
+    <s>GET RESOURCE</s>
+    <s>Get resource name</s>
+    <s>Get resource properties</s>
+    <s>GET RESTORE INFORMATION</s>
+    <s>Get selected menu item parameter</s>
+    <s>GET SERIAL INFORMATION</s>
+    <s>GET SERIAL PORT MAPPING</s>
+    <s>Get string resource</s>
+    <s>GET STYLE SHEET INFO</s>
+    <s>Get subrecord key</s>
+    <s>GET SYSTEM FORMAT</s>
+    <s>Get system info</s>
+    <s>Get table fragmentation</s>
+    <s>GET TABLE PROPERTIES</s>
+    <s>GET TABLE TITLES</s>
+    <s>Get text from pasteboard</s>
+    <s>GET TEXT KEYWORDS</s>
+    <s>Get text resource</s>
+    <s>GET USER LIST</s>
+    <s>GET USER PROPERTIES</s>
+    <s>GET WINDOW RECT</s>
+    <s>Get window title</s>
+    <s>GOTO OBJECT</s>
+    <s>GOTO RECORD</s>
+    <s>GOTO SELECTED RECORD</s>
+    <s>GOTO XY</s>
+    <s>GRAPH</s>
+    <s>GRAPH SETTINGS</s>
+    <s>HIDE MENU BAR</s>
+    <s>HIDE PROCESS</s>
+    <s>HIDE TOOL BAR</s>
+    <s>HIDE WINDOW</s>
+    <s>HIGHLIGHT RECORDS</s>
+    <s>HIGHLIGHT TEXT</s>
+    <s>HTTP AUTHENTICATE</s>
+    <s>HTTP Get</s>
+    <s>HTTP Get certificates folder</s>
+    <s>HTTP GET OPTION</s>
+    <s>HTTP Request</s>
+    <s>HTTP SET CERTIFICATES FOLDER</s>
+    <s>HTTP SET OPTION</s>
+    <s>IDLE</s>
+    <s>IMAP New transporter</s>
+    <s>IMPORT DATA</s>
+    <s>IMPORT DIF</s>
+    <s>IMPORT STRUCTURE</s>
+    <s>IMPORT SYLK</s>
+    <s>IMPORT TEXT</s>
+    <s>In break</s>
+    <s>In footer</s>
+    <s>In header</s>
+    <s>In transaction</s>
+    <s>INSERT IN ARRAY</s>
+    <s>INSERT IN BLOB</s>
+    <s>INSERT IN LIST</s>
+    <s>INSERT MENU ITEM</s>
+    <s>Insert string</s>
+    <s>Int</s>
+    <s>INTEGER TO BLOB</s>
+    <s>INTEGRATE MIRROR LOG FILE</s>
+    <s>INTERSECTION</s>
+    <s>INVOKE ACTION</s>
+    <s>Is a list</s>
+    <s>Is a variable</s>
+    <s>Is compiled mode</s>
+    <s>Is data file locked</s>
+    <s>Is editing text</s>
+    <s>Is field number valid</s>
+    <s>Is field value Null</s>
+    <s>Is in print preview</s>
+    <s>Is in set</s>
+    <s>Is license available</s>
+    <s>Is macOS</s>
+    <s>Is new record</s>
+    <s>Is nil pointer</s>
+    <s>Is picture file</s>
+    <s>Is record loaded</s>
+    <s>Is table number valid</s>
+    <s>Is user deleted</s>
+    <s>Is waiting mouse up</s>
+    <s>Is Windows</s>
+    <s>JSON Parse</s>
+    <s>JSON PARSE ARRAY</s>
+    <s>JSON Resolve pointers</s>
+    <s>JSON Stringify</s>
+    <s>JSON Stringify array</s>
+    <s>JSON TO SELECTION</s>
+    <s>JSON Validate</s>
+    <s>Keystroke</s>
+    <s>KILL WORKER</s>
+    <s>Last errors</s>
+    <s>LAST RECORD</s>
+    <s>LAUNCH EXTERNAL PROCESS</s>
+    <s>LDAP LOGIN</s>
+    <s>LDAP LOGOUT</s>
+    <s>LDAP Search</s>
+    <s>LDAP SEARCH ALL</s>
+    <s>Length</s>
+    <s>Level</s>
+    <s>List item parent</s>
+    <s>List item position</s>
+    <s>LIST OF CHOICE LISTS</s>
+    <s>LIST OF STYLE SHEETS</s>
+    <s>LIST TO ARRAY</s>
+    <s>LIST TO BLOB</s>
+    <s>LISTBOX COLLAPSE</s>
+    <s>LISTBOX DELETE COLUMN</s>
+    <s>LISTBOX DELETE ROWS</s>
+    <s>LISTBOX DUPLICATE COLUMN</s>
+    <s>LISTBOX EXPAND</s>
+    <s>LISTBOX Get array</s>
+    <s>LISTBOX GET ARRAYS</s>
+    <s>LISTBOX Get auto row height</s>
+    <s>LISTBOX GET CELL COORDINATES</s>
+    <s>LISTBOX GET CELL POSITION</s>
+    <s>LISTBOX Get column formula</s>
+    <s>LISTBOX Get column width</s>
+    <s>LISTBOX Get footer calculation</s>
+    <s>LISTBOX Get footers height</s>
+    <s>LISTBOX GET GRID</s>
+    <s>LISTBOX GET GRID COLORS</s>
+    <s>LISTBOX Get headers height</s>
+    <s>LISTBOX GET HIERARCHY</s>
+    <s>LISTBOX Get locked columns</s>
+    <s>LISTBOX Get number of columns</s>
+    <s>LISTBOX Get number of rows</s>
+    <s>LISTBOX GET OBJECTS</s>
+    <s>LISTBOX GET PRINT INFORMATION</s>
+    <s>LISTBOX Get property</s>
+    <s>LISTBOX Get row color</s>
+    <s>LISTBOX Get row color as number</s>
+    <s>LISTBOX Get row font style</s>
+    <s>LISTBOX Get row height</s>
+    <s>LISTBOX Get rows height</s>
+    <s>LISTBOX Get static columns</s>
+    <s>LISTBOX GET TABLE SOURCE</s>
+    <s>LISTBOX INSERT COLUMN</s>
+    <s>LISTBOX INSERT COLUMN FORMULA</s>
+    <s>LISTBOX INSERT ROWS</s>
+    <s>LISTBOX MOVE COLUMN</s>
+    <s>LISTBOX MOVED COLUMN NUMBER</s>
+    <s>LISTBOX MOVED ROW NUMBER</s>
+    <s>LISTBOX SELECT BREAK</s>
+    <s>LISTBOX SELECT ROW</s>
+    <s>LISTBOX SELECT ROWS</s>
+    <s>LISTBOX SET ARRAY</s>
+    <s>LISTBOX SET AUTO ROW HEIGHT</s>
+    <s>LISTBOX SET COLUMN FORMULA</s>
+    <s>LISTBOX SET COLUMN WIDTH</s>
+    <s>LISTBOX SET FOOTER CALCULATION</s>
+    <s>LISTBOX SET FOOTERS HEIGHT</s>
+    <s>LISTBOX SET GRID</s>
+    <s>LISTBOX SET GRID COLOR</s>
+    <s>LISTBOX SET HEADERS HEIGHT</s>
+    <s>LISTBOX SET HIERARCHY</s>
+    <s>LISTBOX SET LOCKED COLUMNS</s>
+    <s>LISTBOX SET PROPERTY</s>
+    <s>LISTBOX SET ROW COLOR</s>
+    <s>LISTBOX SET ROW FONT STYLE</s>
+    <s>LISTBOX SET ROW HEIGHT</s>
+    <s>LISTBOX SET ROWS HEIGHT</s>
+    <s>LISTBOX SET STATIC COLUMNS</s>
+    <s>LISTBOX SET TABLE SOURCE</s>
+    <s>LISTBOX SORT COLUMNS</s>
+    <s>Load 4D View document</s>
+    <s>Load list</s>
+    <s>LOAD RECORD</s>
+    <s>LOAD SET</s>
+    <s>LOAD VARIABLES</s>
+    <s>Locked</s>
+    <s>LOCKED BY</s>
+    <s>Log</s>
+    <s>LOG EVENT</s>
+    <s>Log File</s>
+    <s>LOG FILE TO JSON</s>
+    <s>LONGINT ARRAY FROM SELECTION</s>
+    <s>LONGINT TO BLOB</s>
+    <s>Lowercase</s>
+    <s>Macintosh command down</s>
+    <s>Macintosh control down</s>
+    <s>Macintosh option down</s>
+    <s>MAIL Convert from MIME</s>
+    <s>MAIL Convert to MIME</s>
+    <s>MAIL New attachment</s>
+    <s>Match regex</s>
+    <s>Max</s>
+    <s>MAXIMIZE WINDOW</s>
+    <s>Menu bar height</s>
+    <s>Menu bar screen</s>
+    <s>Menu selected</s>
+    <s>MESSAGE</s>
+    <s>MESSAGES OFF</s>
+    <s>MESSAGES ON</s>
+    <s>Method called on error</s>
+    <s>Method called on event</s>
+    <s>METHOD Get attribute</s>
+    <s>METHOD GET ATTRIBUTES</s>
+    <s>METHOD GET CODE</s>
+    <s>METHOD GET COMMENTS</s>
+    <s>METHOD GET FOLDERS</s>
+    <s>METHOD GET MODIFICATION DATE</s>
+    <s>METHOD GET NAMES</s>
+    <s>METHOD Get path</s>
+    <s>METHOD GET PATHS</s>
+    <s>METHOD GET PATHS FORM</s>
+    <s>METHOD OPEN PATH</s>
+    <s>METHOD RESOLVE PATH</s>
+    <s>METHOD SET ACCESS MODE</s>
+    <s>METHOD SET ATTRIBUTE</s>
+    <s>METHOD SET ATTRIBUTES</s>
+    <s>METHOD SET CODE</s>
+    <s>METHOD SET COMMENTS</s>
+    <s>Milliseconds</s>
+    <s>Min</s>
+    <s>MINIMIZE WINDOW</s>
+    <s>MOBILE APP REFRESH SESSIONS</s>
+    <s>Mod</s>
+    <s>Modified</s>
+    <s>Modified record</s>
+    <s>MODIFY RECORD</s>
+    <s>MODIFY SELECTION</s>
+    <s>Month of</s>
+    <s>MOVE DOCUMENT</s>
+    <s>MULTI SORT ARRAY</s>
+    <s>New collection</s>
+    <s>New data key</s>
+    <s>New list</s>
+    <s>New log file</s>
+    <s>New object</s>
+    <s>New process</s>
+    <s>New shared collection</s>
+    <s>New shared object</s>
+    <s>New signal</s>
+    <s>NEXT RECORD</s>
+    <s>Next window</s>
+    <s>NO DEFAULT TABLE</s>
+    <s>Not</s>
+    <s>NOTIFY RESOURCES FOLDER MODIFICATION</s>
+    <s>Null</s>
+    <s>Num</s>
+    <s>OB Class</s>
+    <s>OB Copy</s>
+    <s>OB Entries</s>
+    <s>OB Get</s>
+    <s>OB GET ARRAY</s>
+    <s>OB GET PROPERTY NAMES</s>
+    <s>OB Get type</s>
+    <s>OB Instance of</s>
+    <s>OB Is defined</s>
+    <s>OB Is empty</s>
+    <s>OB Is shared</s>
+    <s>OB Keys</s>
+    <s>OB REMOVE</s>
+    <s>OB SET</s>
+    <s>OB SET ARRAY</s>
+    <s>OB SET NULL</s>
+    <s>OB Values</s>
+    <s>OBJECT DUPLICATE</s>
+    <s>OBJECT Get action</s>
+    <s>OBJECT Get auto spellcheck</s>
+    <s>OBJECT GET BEST SIZE</s>
+    <s>OBJECT Get border style</s>
+    <s>OBJECT Get context menu</s>
+    <s>OBJECT GET COORDINATES</s>
+    <s>OBJECT Get corner radius</s>
+    <s>OBJECT Get data source</s>
+    <s>OBJECT GET DRAG AND DROP OPTIONS</s>
+    <s>OBJECT Get enabled</s>
+    <s>OBJECT Get enterable</s>
+    <s>OBJECT GET EVENTS</s>
+    <s>OBJECT Get filter</s>
+    <s>OBJECT Get focus rectangle invisible</s>
+    <s>OBJECT Get font</s>
+    <s>OBJECT Get font size</s>
+    <s>OBJECT Get font style</s>
+    <s>OBJECT Get format</s>
+    <s>OBJECT Get help tip</s>
+    <s>OBJECT Get horizontal alignment</s>
+    <s>OBJECT Get indicator type</s>
+    <s>OBJECT Get keyboard layout</s>
+    <s>OBJECT Get list name</s>
+    <s>OBJECT Get list reference</s>
+    <s>OBJECT GET MAXIMUM VALUE</s>
+    <s>OBJECT GET MINIMUM VALUE</s>
+    <s>OBJECT Get multiline</s>
+    <s>OBJECT Get name</s>
+    <s>OBJECT Get placeholder</s>
+    <s>OBJECT Get pointer</s>
+    <s>OBJECT GET PRINT VARIABLE FRAME</s>
+    <s>OBJECT GET RESIZING OPTIONS</s>
+    <s>OBJECT GET RGB COLORS</s>
+    <s>OBJECT GET SCROLL POSITION</s>
+    <s>OBJECT GET SCROLLBAR</s>
+    <s>OBJECT GET SHORTCUT</s>
+    <s>OBJECT Get style sheet</s>
+    <s>OBJECT GET SUBFORM</s>
+    <s>OBJECT GET SUBFORM CONTAINER SIZE</s>
+    <s>OBJECT Get subform container value</s>
+    <s>OBJECT Get text orientation</s>
+    <s>OBJECT Get three states checkbox</s>
+    <s>OBJECT Get title</s>
+    <s>OBJECT Get type</s>
+    <s>OBJECT Get value</s>
+    <s>OBJECT Get vertical alignment</s>
+    <s>OBJECT Get visible</s>
+    <s>OBJECT Is styled text</s>
+    <s>OBJECT MOVE</s>
+    <s>OBJECT SET ACTION</s>
+    <s>OBJECT SET AUTO SPELLCHECK</s>
+    <s>OBJECT SET BORDER STYLE</s>
+    <s>OBJECT SET CONTEXT MENU</s>
+    <s>OBJECT SET COORDINATES</s>
+    <s>OBJECT SET CORNER RADIUS</s>
+    <s>OBJECT SET DATA SOURCE</s>
+    <s>OBJECT SET DRAG AND DROP OPTIONS</s>
+    <s>OBJECT SET ENABLED</s>
+    <s>OBJECT SET ENTERABLE</s>
+    <s>OBJECT SET EVENTS</s>
+    <s>OBJECT SET FILTER</s>
+    <s>OBJECT SET FOCUS RECTANGLE INVISIBLE</s>
+    <s>OBJECT SET FONT</s>
+    <s>OBJECT SET FONT SIZE</s>
+    <s>OBJECT SET FONT STYLE</s>
+    <s>OBJECT SET FORMAT</s>
+    <s>OBJECT SET HELP TIP</s>
+    <s>OBJECT SET HORIZONTAL ALIGNMENT</s>
+    <s>OBJECT SET INDICATOR TYPE</s>
+    <s>OBJECT SET KEYBOARD LAYOUT</s>
+    <s>OBJECT SET LIST BY NAME</s>
+    <s>OBJECT SET LIST BY REFERENCE</s>
+    <s>OBJECT SET MAXIMUM VALUE</s>
+    <s>OBJECT SET MINIMUM VALUE</s>
+    <s>OBJECT SET MULTILINE</s>
+    <s>OBJECT SET PLACEHOLDER</s>
+    <s>OBJECT SET PRINT VARIABLE FRAME</s>
+    <s>OBJECT SET RESIZING OPTIONS</s>
+    <s>OBJECT SET RGB COLORS</s>
+    <s>OBJECT SET SCROLL POSITION</s>
+    <s>OBJECT SET SCROLLBAR</s>
+    <s>OBJECT SET SHORTCUT</s>
+    <s>OBJECT SET STYLE SHEET</s>
+    <s>OBJECT SET SUBFORM</s>
+    <s>OBJECT SET SUBFORM CONTAINER VALUE</s>
+    <s>OBJECT SET TEXT ORIENTATION</s>
+    <s>OBJECT SET THREE STATES CHECKBOX</s>
+    <s>OBJECT SET TITLE</s>
+    <s>OBJECT SET VALUE</s>
+    <s>OBJECT SET VERTICAL ALIGNMENT</s>
+    <s>OBJECT SET VISIBLE</s>
+    <s>Object to path</s>
+    <s>Old</s>
+    <s>OLD RELATED MANY</s>
+    <s>OLD RELATED ONE</s>
+    <s>ON ERR CALL</s>
+    <s>ON EVENT CALL</s>
+    <s>On Exit database method</s>
+    <s>On Startup database method</s>
+    <s>ONE RECORD SELECT</s>
+    <s>OPEN ADMINISTRATION WINDOW</s>
+    <s>OPEN COLOR PICKER</s>
+    <s>OPEN DATA FILE</s>
+    <s>OPEN DATABASE</s>
+    <s>Open datastore</s>
+    <s>Open document</s>
+    <s>OPEN FONT PICKER</s>
+    <s>Open form window</s>
+    <s>OPEN PRINTING JOB</s>
+    <s>Open resource file</s>
+    <s>OPEN RUNTIME EXPLORER</s>
+    <s>OPEN SECURITY CENTER</s>
+    <s>OPEN SETTINGS WINDOW</s>
+    <s>OPEN URL</s>
+    <s>Open window</s>
+    <s>ORDER BY</s>
+    <s>ORDER BY ATTRIBUTE</s>
+    <s>ORDER BY FORMULA</s>
+    <s>Outside call</s>
+    <s>PAGE BREAK</s>
+    <s>Parse formula</s>
+    <s>Pasteboard data size</s>
+    <s>Path to object</s>
+    <s>PAUSE INDEXES</s>
+    <s>PAUSE PROCESS</s>
+    <s>PHP Execute</s>
+    <s>PHP GET FULL RESPONSE</s>
+    <s>PHP GET OPTION</s>
+    <s>PHP SET OPTION</s>
+    <s>PICTURE CODEC LIST</s>
+    <s>PICTURE LIBRARY LIST</s>
+    <s>PICTURE PROPERTIES</s>
+    <s>Picture size</s>
+    <s>PICTURE TO BLOB</s>
+    <s>PLAY</s>
+    <s>PLUGIN LIST</s>
+    <s>POP RECORD</s>
+    <s>Pop up menu</s>
+    <s>POP3 New transporter</s>
+    <s>Position</s>
+    <s>POST CLICK</s>
+    <s>POST EVENT</s>
+    <s>POST KEY</s>
+    <s>POST OUTSIDE CALL</s>
+    <s>PREVIOUS RECORD</s>
+    <s>Print form</s>
+    <s>PRINT LABEL</s>
+    <s>Print object</s>
+    <s>PRINT OPTION VALUES</s>
+    <s>PRINT RECORD</s>
+    <s>PRINT SELECTION</s>
+    <s>PRINT SETTINGS</s>
+    <s>Print settings to BLOB</s>
+    <s>PRINTERS LIST</s>
+    <s>Printing page</s>
+    <s>PROCESS 4D TAGS</s>
+    <s>Process aborted</s>
+    <s>Process number</s>
+    <s>PROCESS PROPERTIES</s>
+    <s>Process state</s>
+    <s>PUSH RECORD</s>
+    <s>QR BLOB TO REPORT</s>
+    <s>QR Count columns</s>
+    <s>QR DELETE COLUMN</s>
+    <s>QR DELETE OFFSCREEN AREA</s>
+    <s>QR EXECUTE COMMAND</s>
+    <s>QR Find column</s>
+    <s>QR Get area property</s>
+    <s>QR GET BORDERS</s>
+    <s>QR Get command status</s>
+    <s>QR GET DESTINATION</s>
+    <s>QR Get document property</s>
+    <s>QR Get drop column</s>
+    <s>QR GET HEADER AND FOOTER</s>
+    <s>QR Get HTML template</s>
+    <s>QR GET INFO COLUMN</s>
+    <s>QR Get info row</s>
+    <s>QR Get report kind</s>
+    <s>QR Get report table</s>
+    <s>QR GET SELECTION</s>
+    <s>QR GET SORTS</s>
+    <s>QR Get text property</s>
+    <s>QR GET TOTALS DATA</s>
+    <s>QR GET TOTALS SPACING</s>
+    <s>QR INSERT COLUMN</s>
+    <s>QR MOVE COLUMN</s>
+    <s>QR NEW AREA</s>
+    <s>QR New offscreen area</s>
+    <s>QR ON COMMAND</s>
+    <s>QR REPORT</s>
+    <s>QR REPORT TO BLOB</s>
+    <s>QR RUN</s>
+    <s>QR SET AREA PROPERTY</s>
+    <s>QR SET BORDERS</s>
+    <s>QR SET DESTINATION</s>
+    <s>QR SET DOCUMENT PROPERTY</s>
+    <s>QR SET HEADER AND FOOTER</s>
+    <s>QR SET HTML TEMPLATE</s>
+    <s>QR SET INFO COLUMN</s>
+    <s>QR SET INFO ROW</s>
+    <s>QR SET REPORT KIND</s>
+    <s>QR SET REPORT TABLE</s>
+    <s>QR SET SELECTION</s>
+    <s>QR SET SORTS</s>
+    <s>QR SET TEXT PROPERTY</s>
+    <s>QR SET TOTALS DATA</s>
+    <s>QR SET TOTALS SPACING</s>
+    <s>QUERY</s>
+    <s>QUERY BY ATTRIBUTE</s>
+    <s>QUERY BY EXAMPLE</s>
+    <s>QUERY BY FORMULA</s>
+    <s>QUERY BY SQL</s>
+    <s>QUERY SELECTION</s>
+    <s>QUERY SELECTION BY ATTRIBUTE</s>
+    <s>QUERY SELECTION BY FORMULA</s>
+    <s>QUERY SELECTION WITH ARRAY</s>
+    <s>QUERY WITH ARRAY</s>
+    <s>QUIT 4D</s>
+    <s>Random</s>
+    <s>READ ONLY</s>
+    <s>Read only state</s>
+    <s>READ PICTURE FILE</s>
+    <s>READ WRITE</s>
+    <s>REAL TO BLOB</s>
+    <s>RECEIVE BUFFER</s>
+    <s>RECEIVE PACKET</s>
+    <s>RECEIVE RECORD</s>
+    <s>RECEIVE VARIABLE</s>
+    <s>Record number</s>
+    <s>Records in selection</s>
+    <s>Records in set</s>
+    <s>Records in table</s>
+    <s>REDRAW</s>
+    <s>REDRAW WINDOW</s>
+    <s>REDUCE SELECTION</s>
+    <s>Refresh license</s>
+    <s>REGENERATE MISSING TABLE</s>
+    <s>REGISTER CLIENT</s>
+    <s>Register data key</s>
+    <s>REJECT</s>
+    <s>REJECT NEW REMOTE CONNECTIONS</s>
+    <s>RELATE MANY</s>
+    <s>RELATE MANY SELECTION</s>
+    <s>RELATE ONE</s>
+    <s>RELATE ONE SELECTION</s>
+    <s>RELEASE MENU</s>
+    <s>RELOAD EXTERNAL DATA</s>
+    <s>RELOAD PROJECT</s>
+    <s>REMOVE FROM SET</s>
+    <s>REMOVE PICTURE FROM LIBRARY</s>
+    <s>Replace string</s>
+    <s>Request</s>
+    <s>RESIZE FORM WINDOW</s>
+    <s>RESOLVE ALIAS</s>
+    <s>RESOLVE POINTER</s>
+    <s>RESOURCE LIST</s>
+    <s>RESOURCE TYPE LIST</s>
+    <s>RESTART 4D</s>
+    <s>RESTORE</s>
+    <s>RESUME INDEXES</s>
+    <s>RESUME PROCESS</s>
+    <s>RESUME TRANSACTION</s>
+    <s>Right click</s>
+    <s>Round</s>
+    <s>SAVE LIST</s>
+    <s>SAVE RECORD</s>
+    <s>SAVE RELATED ONE</s>
+    <s>SAVE SET</s>
+    <s>SAVE VARIABLES</s>
+    <s>SAX ADD PROCESSING INSTRUCTION</s>
+    <s>SAX ADD XML CDATA</s>
+    <s>SAX ADD XML COMMENT</s>
+    <s>SAX ADD XML DOCTYPE</s>
+    <s>SAX ADD XML ELEMENT VALUE</s>
+    <s>SAX CLOSE XML ELEMENT</s>
+    <s>SAX GET XML CDATA</s>
+    <s>SAX GET XML COMMENT</s>
+    <s>SAX GET XML DOCUMENT VALUES</s>
+    <s>SAX GET XML ELEMENT</s>
+    <s>SAX GET XML ELEMENT VALUE</s>
+    <s>SAX GET XML ENTITY</s>
+    <s>SAX Get XML node</s>
+    <s>SAX GET XML PROCESSING INSTRUCTION</s>
+    <s>SAX OPEN XML ELEMENT</s>
+    <s>SAX OPEN XML ELEMENT ARRAYS</s>
+    <s>SAX SET XML DECLARATION</s>
+    <s>SCAN INDEX</s>
+    <s>SCREEN COORDINATES</s>
+    <s>SCREEN DEPTH</s>
+    <s>Screen height</s>
+    <s>Screen width</s>
+    <s>Select document</s>
+    <s>Select folder</s>
+    <s>SELECT LIST ITEMS BY POSITION</s>
+    <s>SELECT LIST ITEMS BY REFERENCE</s>
+    <s>SELECT LOG FILE</s>
+    <s>Select RGB Color</s>
+    <s>Selected list items</s>
+    <s>Selected record number</s>
+    <s>SELECTION RANGE TO ARRAY</s>
+    <s>SELECTION TO ARRAY</s>
+    <s>Selection to JSON</s>
+    <s>Self</s>
+    <s>Semaphore</s>
+    <s>SEND MESSAGE TO REMOTE USER</s>
+    <s>SEND PACKET</s>
+    <s>SEND RECORD</s>
+    <s>SEND VARIABLE</s>
+    <s>Sequence number</s>
+    <s>Session</s>
+    <s>SET ABOUT</s>
+    <s>SET ALLOWED METHODS</s>
+    <s>SET APPLICATION COLOR SCHEME</s>
+    <s>SET ASSERT ENABLED</s>
+    <s>SET AUTOMATIC RELATIONS</s>
+    <s>SET BLOB SIZE</s>
+    <s>SET BLOBS CACHE PRIORITY</s>
+    <s>SET CACHE SIZE</s>
+    <s>SET CHANNEL</s>
+    <s>SET CURRENT PRINTER</s>
+    <s>SET CURSOR</s>
+    <s>SET DATABASE LOCALIZATION</s>
+    <s>SET DATABASE PARAMETER</s>
+    <s>SET DEFAULT CENTURY</s>
+    <s>SET DOCUMENT POSITION</s>
+    <s>SET DOCUMENT PROPERTIES</s>
+    <s>SET DOCUMENT SIZE</s>
+    <s>SET DRAG ICON</s>
+    <s>SET ENVIRONMENT VARIABLE</s>
+    <s>SET EXTERNAL DATA PATH</s>
+    <s>SET FIELD RELATION</s>
+    <s>SET FIELD TITLES</s>
+    <s>SET FIELD VALUE NULL</s>
+    <s>SET FILE TO PASTEBOARD</s>
+    <s>SET GROUP ACCESS</s>
+    <s>Set group properties</s>
+    <s>SET INDEX</s>
+    <s>SET INDEX CACHE PRIORITY</s>
+    <s>SET LIST ITEM</s>
+    <s>SET LIST ITEM FONT</s>
+    <s>SET LIST ITEM ICON</s>
+    <s>SET LIST ITEM PARAMETER</s>
+    <s>SET LIST ITEM PROPERTIES</s>
+    <s>SET LIST PROPERTIES</s>
+    <s>SET MACRO PARAMETER</s>
+    <s>SET MENU BAR</s>
+    <s>SET MENU ITEM</s>
+    <s>SET MENU ITEM ICON</s>
+    <s>SET MENU ITEM MARK</s>
+    <s>SET MENU ITEM METHOD</s>
+    <s>SET MENU ITEM PARAMETER</s>
+    <s>SET MENU ITEM PROPERTY</s>
+    <s>SET MENU ITEM SHORTCUT</s>
+    <s>SET MENU ITEM STYLE</s>
+    <s>SET PICTURE FILE NAME</s>
+    <s>SET PICTURE METADATA</s>
+    <s>SET PICTURE TO LIBRARY</s>
+    <s>SET PICTURE TO PASTEBOARD</s>
+    <s>SET PLUGIN ACCESS</s>
+    <s>SET PRINT MARKER</s>
+    <s>SET PRINT OPTION</s>
+    <s>SET PRINT PREVIEW</s>
+    <s>SET PRINTABLE MARGIN</s>
+    <s>SET PROCESS VARIABLE</s>
+    <s>SET QUERY AND LOCK</s>
+    <s>SET QUERY DESTINATION</s>
+    <s>SET QUERY LIMIT</s>
+    <s>SET REAL COMPARISON LEVEL</s>
+    <s>SET RECENT FONTS</s>
+    <s>SET SCREEN DEPTH</s>
+    <s>SET TABLE CACHE PRIORITY</s>
+    <s>SET TABLE TITLES</s>
+    <s>SET TEXT TO PASTEBOARD</s>
+    <s>SET TIMEOUT</s>
+    <s>SET TIMER</s>
+    <s>SET UPDATE FOLDER</s>
+    <s>SET USER ALIAS</s>
+    <s>Set user properties</s>
+    <s>SET WINDOW RECT</s>
+    <s>SET WINDOW TITLE</s>
+    <s>Shift down</s>
+    <s>SHOW MENU BAR</s>
+    <s>SHOW ON DISK</s>
+    <s>SHOW PROCESS</s>
+    <s>SHOW TOOL BAR</s>
+    <s>SHOW WINDOW</s>
+    <s>Sin</s>
+    <s>Size of array</s>
+    <s>SMTP New transporter</s>
+    <s>SOAP DECLARATION</s>
+    <s>SOAP Get info</s>
+    <s>SOAP REJECT NEW REQUESTS</s>
+    <s>SOAP Request</s>
+    <s>SOAP SEND FAULT</s>
+    <s>SORT ARRAY</s>
+    <s>SORT LIST</s>
+    <s>SPELL ADD TO USER DICTIONARY</s>
+    <s>SPELL CHECK TEXT</s>
+    <s>SPELL CHECKING</s>
+    <s>SPELL Get current dictionary</s>
+    <s>SPELL GET DICTIONARY LIST</s>
+    <s>SPELL SET CURRENT DICTIONARY</s>
+    <s>Split string</s>
+    <s>SQL CANCEL LOAD</s>
+    <s>SQL End selection</s>
+    <s>SQL EXECUTE</s>
+    <s>SQL EXECUTE SCRIPT</s>
+    <s>SQL EXPORT DATABASE</s>
+    <s>SQL EXPORT SELECTION</s>
+    <s>SQL Get current data source</s>
+    <s>SQL GET DATA SOURCE LIST</s>
+    <s>SQL GET LAST ERROR</s>
+    <s>SQL GET OPTION</s>
+    <s>SQL LOAD RECORD</s>
+    <s>SQL LOGIN</s>
+    <s>SQL LOGOUT</s>
+    <s>SQL SET OPTION</s>
+    <s>SQL SET PARAMETER</s>
+    <s>Square root</s>
+    <s>ST COMPUTE EXPRESSIONS</s>
+    <s>ST FREEZE EXPRESSIONS</s>
+    <s>ST GET ATTRIBUTES</s>
+    <s>ST Get content type</s>
+    <s>ST Get expression</s>
+    <s>ST GET OPTIONS</s>
+    <s>ST Get plain text</s>
+    <s>ST Get text</s>
+    <s>ST GET URL</s>
+    <s>ST INSERT EXPRESSION</s>
+    <s>ST INSERT URL</s>
+    <s>ST SET ATTRIBUTES</s>
+    <s>ST SET OPTIONS</s>
+    <s>ST SET PLAIN TEXT</s>
+    <s>ST SET TEXT</s>
+    <s>START MONITORING ACTIVITY</s>
+    <s>START SQL SERVER</s>
+    <s>START TRANSACTION</s>
+    <s>Std deviation</s>
+    <s>STOP MONITORING ACTIVITY</s>
+    <s>STOP SQL SERVER</s>
+    <s>Storage</s>
+    <s>String</s>
+    <s>STRING LIST TO ARRAY</s>
+    <s>Structure file</s>
+    <s>Substring</s>
+    <s>Subtotal</s>
+    <s>Sum</s>
+    <s>Sum squares</s>
+    <s>Super</s>
+    <s>Super</s>
+    <s>SUSPEND TRANSACTION</s>
+    <s>SVG EXPORT TO PICTURE</s>
+    <s>SVG Find element ID by coordinates</s>
+    <s>SVG Find element IDs by rect</s>
+    <s>SVG GET ATTRIBUTE</s>
+    <s>SVG SET ATTRIBUTE</s>
+    <s>SVG SHOW ELEMENT</s>
+    <s>System folder</s>
+    <s>Table</s>
+    <s>Table name</s>
+    <s>Tan</s>
+    <s>Temporary folder</s>
+    <s>Test path name</s>
+    <s>Test semaphore</s>
+    <s>TEXT TO ARRAY</s>
+    <s>TEXT TO BLOB</s>
+    <s>TEXT TO DOCUMENT</s>
+    <s>This</s>
+    <s>Tickcount</s>
+    <s>Time</s>
+    <s>Time string</s>
+    <s>Timestamp</s>
+    <s>Tool bar height</s>
+    <s>TRACE</s>
+    <s>Transaction level</s>
+    <s>TRANSFORM PICTURE</s>
+    <s>Trigger event</s>
+    <s>Trigger level</s>
+    <s>TRIGGER PROPERTIES</s>
+    <s>True</s>
+    <s>Trunc</s>
+    <s>TRUNCATE TABLE</s>
+    <s>Type</s>
+    <s>Undefined</s>
+    <s>UNION</s>
+    <s>UNLOAD RECORD</s>
+    <s>UNREGISTER CLIENT</s>
+    <s>Uppercase</s>
+    <s>USE CHARACTER SET</s>
+    <s>USE ENTITY SELECTION</s>
+    <s>USE NAMED SELECTION</s>
+    <s>USE SET</s>
+    <s>User in group</s>
+    <s>USERS TO BLOB</s>
+    <s>Validate password</s>
+    <s>VALIDATE TRANSACTION</s>
+    <s>Value type</s>
+    <s>VARIABLE TO BLOB</s>
+    <s>VARIABLE TO VARIABLE</s>
+    <s>Variance</s>
+    <s>VERIFY CURRENT DATA FILE</s>
+    <s>VERIFY DATA FILE</s>
+    <s>Verify password hash</s>
+    <s>Version type</s>
+    <s>VOLUME ATTRIBUTES</s>
+    <s>VOLUME LIST</s>
+    <s>WA Back URL available</s>
+    <s>WA Create URL history menu</s>
+    <s>WA Evaluate JavaScript</s>
+    <s>WA EXECUTE JAVASCRIPT FUNCTION</s>
+    <s>WA Forward URL available</s>
+    <s>WA Get current URL</s>
+    <s>WA GET EXTERNAL LINKS FILTERS</s>
+    <s>WA Get last filtered URL</s>
+    <s>WA GET LAST URL ERROR</s>
+    <s>WA Get page content</s>
+    <s>WA Get page title</s>
+    <s>WA GET PREFERENCE</s>
+    <s>WA GET URL FILTERS</s>
+    <s>WA GET URL HISTORY</s>
+    <s>WA OPEN BACK URL</s>
+    <s>WA OPEN FORWARD URL</s>
+    <s>WA OPEN URL</s>
+    <s>WA OPEN WEB INSPECTOR</s>
+    <s>WA REFRESH CURRENT URL</s>
+    <s>WA Run offscreen area</s>
+    <s>WA SET EXTERNAL LINKS FILTERS</s>
+    <s>WA SET PAGE CONTENT</s>
+    <s>WA SET PREFERENCE</s>
+    <s>WA SET URL FILTERS</s>
+    <s>WA STOP LOADING URL</s>
+    <s>WA ZOOM IN</s>
+    <s>WA ZOOM OUT</s>
+    <s>WEB GET BODY PART</s>
+    <s>WEB Get body part count</s>
+    <s>WEB Get Current Session ID</s>
+    <s>WEB GET HTTP BODY</s>
+    <s>WEB GET HTTP HEADER</s>
+    <s>WEB GET OPTION</s>
+    <s>WEB Get server info</s>
+    <s>WEB GET STATISTICS</s>
+    <s>WEB GET VARIABLES</s>
+    <s>WEB Is secured connection</s>
+    <s>WEB Is server running</s>
+    <s>WEB LEGACY CLOSE SESSION</s>
+    <s>WEB LEGACY GET SESSION EXPIRATION</s>
+    <s>WEB SEND BLOB</s>
+    <s>WEB SEND FILE</s>
+    <s>WEB SEND HTTP REDIRECT</s>
+    <s>WEB SEND RAW DATA</s>
+    <s>WEB SEND TEXT</s>
+    <s>WEB Server</s>
+    <s>WEB Server list</s>
+    <s>WEB SERVICE AUTHENTICATE</s>
+    <s>WEB SERVICE CALL</s>
+    <s>WEB SERVICE Get info</s>
+    <s>WEB SERVICE GET RESULT</s>
+    <s>WEB SERVICE SET OPTION</s>
+    <s>WEB SERVICE SET PARAMETER</s>
+    <s>WEB SET HOME PAGE</s>
+    <s>WEB SET HTTP HEADER</s>
+    <s>WEB SET OPTION</s>
+    <s>WEB SET ROOT FOLDER</s>
+    <s>WEB START SERVER</s>
+    <s>WEB STOP SERVER</s>
+    <s>WEB Validate digest</s>
+    <s>Window kind</s>
+    <s>WINDOW LIST</s>
+    <s>Window process</s>
+    <s>Windows Alt down</s>
+    <s>Windows Ctrl down</s>
+    <s>WRITE PICTURE FILE</s>
+    <s>XML DECODE</s>
+    <s>XML GET ERROR</s>
+    <s>XML GET OPTIONS</s>
+    <s>XML SET OPTIONS</s>
+    <s>Year of</s>
+    <s>ZIP Create archive</s>
+    <s>ZIP Read archive</s>
+  </k>
+  <k id="Types">
+    <s>ARRAY BLOB</s>
+    <s>ARRAY BOOLEAN</s>
+    <s>ARRAY DATE</s>
+    <s>ARRAY INTEGER</s>
+    <s>ARRAY LONGINT</s>
+    <s>ARRAY OBJECT</s>
+    <s>ARRAY PICTURE</s>
+    <s>ARRAY POINTER</s>
+    <s>ARRAY REAL</s>
+    <s>ARRAY TEXT</s>
+    <s>ARRAY TIME</s>
+    <s>C_BLOB</s>
+    <s>C_BOOLEAN</s>
+    <s>C_COLLECTION</s>
+    <s>C_DATE</s>
+    <s>C_LONGINT</s>
+    <s>C_OBJECT</s>
+    <s>C_PICTURE</s>
+    <s>C_POINTER</s>
+    <s>C_REAL</s>
+    <s>C_TEXT</s>
+    <s>C_TIME</s>
+    <s>C_VARIANT</s>
+  </k>
+  <k id="SystemVariables">
+    <s>Document</s>
+    <s>Error</s>
+    <s>Error formula</s>
+    <s>Error line</s>
+    <s>Error method</s>
+    <s>FldDelimit</s>
+    <s>KeyCode</s>
+    <s>Modifiers</s>
+    <s>MouseDown</s>
+    <s>MouseProc</s>
+    <s>MouseX</s>
+    <s>MouseY</s>
+    <s>OK</s>
+  </k>
+</def>
