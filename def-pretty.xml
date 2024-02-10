@@ -2547,6 +2547,7 @@
     <s>ZIP Without enclosing folder</s>
   </k>
   <k id="Keywords">
+    <s>#DECLARE</s>
     <s>:</s>
     <s>break</s>
     <s>Case of</s>
