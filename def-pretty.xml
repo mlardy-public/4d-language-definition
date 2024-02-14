@@ -2549,6 +2549,7 @@
   <k id="Keywords">
     <s>#DECLARE</s>
     <s>:</s>
+    <s>Begin SQL</s>
     <s>break</s>
     <s>Case of</s>
     <s>Class constructor</s>
@@ -2559,6 +2560,7 @@
     <s>End for</s>
     <s>End for each</s>
     <s>End if</s>
+    <s>End SQL</s>
     <s>End use</s>
     <s>End while</s>
     <s>For</s>
@@ -2664,7 +2666,6 @@
     <s>BEEP</s>
     <s>Before</s>
     <s>Before selection</s>
-    <s>Begin SQL</s>
     <s>BLOB PROPERTIES</s>
     <s>BLOB size</s>
     <s>BLOB TO DOCUMENT</s>
@@ -2857,7 +2858,6 @@
     <s>Encrypt data BLOB</s>
     <s>Encrypt data file</s>
     <s>End selection</s>
-    <s>End SQL</s>
     <s>Equal pictures</s>
     <s>ERASE WINDOW</s>
     <s>Euro converter</s>
