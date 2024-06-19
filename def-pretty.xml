@@ -9,7 +9,6 @@
     <s>4D ODBC Pro license</s>
     <s>4D Remote mode</s>
     <s>4D Remote mode timeout</s>
-    <s>4D REST digest</s>
     <s>4D REST Test license</s>
     <s>4D Server</s>
     <s>4D Server log recording</s>
@@ -40,6 +39,7 @@
     <s>_o_4D Local mode scheduler</s>
     <s>_o_4D Mobile license</s>
     <s>_o_4D Remote mode scheduler</s>
+    <s>_o_4D REST digest</s>
     <s>_o_4D Server scheduler</s>
     <s>_o_Accept action</s>
     <s>_o_Add subrecord action</s>
@@ -2552,6 +2552,7 @@
     <s>Begin SQL</s>
     <s>break</s>
     <s>Case of</s>
+    <s>Catch</s>
     <s>Class constructor</s>
     <s>Class extends</s>
     <s>continue</s>
@@ -2561,6 +2562,7 @@
     <s>End for each</s>
     <s>End if</s>
     <s>End SQL</s>
+    <s>End Try</s>
     <s>End use</s>
     <s>End while</s>
     <s>For</s>
@@ -2572,6 +2574,9 @@
     <s>property</s>
     <s>Repeat</s>
     <s>return</s>
+    <s>shared</s>
+    <s>singleton</s>
+    <s>Try</s>
     <s>Until</s>
     <s>Use</s>
     <s>var</s>
